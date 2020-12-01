@@ -1,0 +1,809 @@
+[2020-11-17 17:32:00.986] [renderer1] [error] Command failed: /home/mkasun/sandbox/go/lxd-4.7/_dist/bin/godef -t -i -f /home/mkasun/sandbox/curl-google/quickstart.go -o 2492
+godef: no declaration found for &{0xc000384580 Create}
+
+[2020-11-17 17:32:08.493] [renderer1] [error] Command failed: /home/mkasun/sandbox/go/lxd-4.7/_dist/bin/godef -t -i -f /home/mkasun/sandbox/curl-google/quickstart.go -o 2493
+godef: no declaration found for &{0xc0003505e0 Create}
+
+[2020-11-17 17:43:57.883] [renderer1] [error] Command failed: /home/mkasun/sandbox/go/lxd-4.7/_dist/bin/godef -t -i -f /home/mkasun/sandbox/curl-google/src/google.golang.org/api/doc.go -o 2220
+godef: no object
+
+[2020-11-17 18:16:11.150] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-17 18:16:19.409] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-17 18:16:39.814] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-17 18:16:44.229] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-17 18:16:44.792] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-17 18:20:04.281] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:02:02.316] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:02:02.658] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:02:08.323] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:02:26.798] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:03:43.254] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:04:39.494] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:04:41.908] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:04:43.415] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:04:50.224] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:04:53.535] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:04:56.782] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:06:08.685] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:08:45.761] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:08:51.905] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:08:59.004] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:09:16.578] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:15:01.740] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:16:31.802] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:17:31.431] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:17:42.142] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:17:43.253] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:17:43.795] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:17:49.858] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:17:51.372] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:17:52.060] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:17:53.283] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:17:55.915] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:17:58.269] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:00.492] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:02.254] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:04.534] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:06.316] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:18:08.363] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:09.901] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:10.718] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:18:11.527] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:13.809] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:18:14.874] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:16.290] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:18:19.883] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:05.340] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:10.035] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:19:10.562] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:12.257] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:15.169] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:19:18.348] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:26.715] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:19:28.733] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:30.208] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:32.307] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:34.327] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:41.831] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:19:53.053] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:41:56.105] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:42:03.205] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:42:23.859] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:42:30.580] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:42:54.928] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:43:23.462] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:43:34.860] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+[2020-11-18 09:43:41.485] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 09:43:53.977] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:315)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:525:264)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15985:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15963:19)
+	at /home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15897:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mkasun/.vscode/extensions/golang.go-0.18.1/dist/goMain.js:15874:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2020-11-18 09:45:08.970] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 10:00:01.221] [renderer1] [error] Command failed: /home/mkasun/sandbox/go/lxd-4.7/_dist/bin/godef -t -i -f /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go -o 80671
+
+[2020-11-18 10:00:03.614] [renderer1] [error] Command failed: /home/mkasun/sandbox/go/lxd-4.7/_dist/bin/godef -t -i -f /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go -o 80662
+
+[2020-11-18 10:00:06.381] [renderer1] [error] Command failed: /home/mkasun/sandbox/go/lxd-4.7/_dist/bin/guru -json -modified describe /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go:#80663
+: Error: Command failed: /home/mkasun/sandbox/go/lxd-4.7/_dist/bin/guru -json -modified describe /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go:#80663
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5)
+[2020-11-18 10:04:36.381] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 10:04:50.060] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 10:05:28.241] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-11-18 14:43:44.803] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 14:43:46.848] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 15:11:34.721] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 15:11:36.807] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 15:41:34.720] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 15:41:36.809] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 16:11:34.722] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 16:11:36.809] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 16:41:34.722] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 16:41:36.809] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 17:11:34.723] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 17:11:36.809] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 17:41:34.724] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 17:41:36.809] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 18:11:34.724] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 18:11:36.810] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 18:41:34.726] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 18:41:36.810] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 19:11:34.726] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 19:11:36.812] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 19:41:34.725] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 19:41:36.813] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 20:11:34.725] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 20:11:36.813] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 20:41:34.726] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 20:41:36.812] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 21:11:34.727] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 21:11:36.814] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 21:41:34.727] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 21:41:36.813] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 22:11:34.727] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 22:11:36.813] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 22:41:34.729] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 22:41:36.812] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 23:11:34.730] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 23:11:36.814] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 23:41:34.729] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-18 23:41:36.816] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 00:11:34.730] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 00:11:36.815] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 00:41:34.731] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 00:41:36.815] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 01:11:34.732] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 01:11:36.816] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 01:41:34.732] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 01:41:36.814] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 02:11:34.732] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 02:11:36.816] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 02:41:34.733] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 02:41:36.817] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 03:11:34.733] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 03:11:36.817] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 03:41:34.734] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 03:41:36.819] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 04:11:34.734] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 04:11:36.818] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 04:41:34.735] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 04:41:36.818] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 05:11:34.736] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 05:11:36.818] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 05:41:34.737] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 05:41:36.818] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 06:11:34.738] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 06:11:36.818] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 06:41:34.738] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 06:41:36.819] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 07:11:34.738] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 07:11:36.820] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 07:41:34.739] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 07:41:36.821] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 08:11:34.740] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 08:11:36.822] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 08:41:34.740] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+[2020-11-19 08:41:36.822] [renderer1] [error] connect ETIMEDOUT 13.107.13.93:443: Error: connect ETIMEDOUT 13.107.13.93:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)

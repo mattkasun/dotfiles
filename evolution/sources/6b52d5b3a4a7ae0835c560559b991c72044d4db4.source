@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mkasun@gmail.com
+Enabled=true
+Parent=776e7205af189f48dedfebdba5e8aa324bce5028
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1c2474373ffa06013dfa784f7753b94bf69e4416
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mkasun@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

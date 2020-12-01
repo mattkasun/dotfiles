@@ -1,0 +1,5 @@
+game:
+  exe: /home/mkasun/Games/assault-cube/assaultcube.sh
+linux: {}
+system:
+  prefer_system_libs: false

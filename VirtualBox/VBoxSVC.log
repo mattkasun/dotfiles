@@ -1,0 +1,46 @@
+00:00:00.019324 main     VirtualBox XPCOM Server 6.1.10_Ubuntu r138449 linux.amd64 (Jun  6 2020 11:31:37) release log
+00:00:00.019328 main     Log opened 2020-11-29T15:52:12.863894000Z
+00:00:00.019329 main     Build Type: release
+00:00:00.019334 main     OS Product: Linux
+00:00:00.019335 main     OS Release: 5.4.0-54-generic
+00:00:00.019337 main     OS Version: #60-Ubuntu SMP Fri Nov 6 10:37:59 UTC 2020
+00:00:00.019427 main     DMI Product Name: Latitude E7440
+00:00:00.019439 main     DMI Product Version: 01
+00:00:00.019449 main     Firmware type: UEFI
+00:00:00.019630 main     Secure Boot: Disabled
+00:00:00.019682 main     Host RAM: 7866MB (7.6GB) total, 4133MB (4.0GB) available
+00:00:00.019689 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.019690 main     Process ID: 20519
+00:00:00.019691 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.021575 main     IPC socket path: /tmp/.vbox-mkasun-ipc/ipcd
+00:00:00.134375 nspr-2   VirtualBox: object creation starts
+00:00:00.134543 nspr-2   Home directory: '/home/mkasun/.config/VirtualBox'
+00:00:00.135138 nspr-2   Loading settings file "/home/mkasun/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.149928 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for br-be921dd030f0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.158165 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for br-51e1d4d9520a: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.169960 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for docker0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.171516 nspr-2   HostDnsMonitor: initializing
+00:00:00.172089 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.172116 nspr-2   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.172148 nspr-2   HostDnsMonitor: updating information
+00:00:00.172181 nspr-2   HostDnsMonitor: old information
+00:00:00.172184 nspr-2     no server entries
+00:00:00.172187 nspr-2     no domain set
+00:00:00.172190 nspr-2     no search string entries
+00:00:00.172192 nspr-2   HostDnsMonitor: new information
+00:00:00.172195 nspr-2     server 1: 127.0.0.53
+00:00:00.172198 nspr-2     domain: lan
+00:00:00.172220 nspr-2     search string 1: lan
+00:00:00.181417 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.184831 nspr-2   VirtualBox: object created
+00:00:01.346425 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for br-be921dd030f0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:01.349185 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for br-51e1d4d9520a: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:01.353764 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for docker0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:06.104037 nspr-3   Saving settings file "/home/mkasun/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:06.113518 nspr-3   Saving settings file "/home/mkasun/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:11.632348 main     VirtualBox: object deletion starts
+00:00:11.632730 main     HostDnsMonitor: shutting down ...
+00:00:11.639831 main     HostDnsMonitor: shut down
+00:00:11.688090 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:16.639956 main     {00007f98200217a0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:16.640561 main     VirtualBox: object deleted

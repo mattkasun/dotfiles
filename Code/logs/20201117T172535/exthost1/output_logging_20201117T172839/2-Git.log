@@ -1,0 +1,84 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mkasun/sandbox/curl-google/src/google.golang.org/api
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/mkasun/sandbox/curl-google/src/google.golang.org/api/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :drive/v3/drive-gen.go
+> git ls-files --stage -- /home/mkasun/sandbox/curl-google/src/google.golang.org/api/drive/v3/drive-gen.go
+> git cat-file -s 1df224dbd9ae9aa91c0748a95bb9e7af0395b727
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :doc.go
+> git ls-files --stage -- /home/mkasun/sandbox/curl-google/src/google.golang.org/api/doc.go
+> git cat-file -s 79096e325e34c01ac79f132bbb5ad2d456bee585
+> git check-ignore -v -z --stdin
+> git rev-parse --git-dir
+Open repository: /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api
+> git status -z -u
+> git show --textconv :drive/v3/drive-gen.go
+> git ls-files --stage -- /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go
+> git symbolic-ref --short HEAD
+> git cat-file -s 1df224dbd9ae9aa91c0748a95bb9e7af0395b727
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :drive/v3/drive-gen.go
+> git ls-files --stage -- /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go
+> git cat-file -s 1df224dbd9ae9aa91c0748a95bb9e7af0395b727
+> git show --textconv :drive/v3/drive-gen.go
+> git ls-files --stage -- /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go
+> git cat-file -s 1df224dbd9ae9aa91c0748a95bb9e7af0395b727
+> git show --textconv :drive/v3/drive-gen.go
+> git ls-files --stage -- /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go
+> git cat-file -s 1df224dbd9ae9aa91c0748a95bb9e7af0395b727
+> git show --textconv :drive/v3/drive-gen.go
+> git ls-files --stage -- /home/mkasun/sandbox/go/lxd-4.7/_dist/src/google.golang.org/api/drive/v3/drive-gen.go
+> git cat-file -s 1df224dbd9ae9aa91c0748a95bb9e7af0395b727
+> git rev-parse --git-dir
+Open repository: /home/mkasun/sandbox/curl-google
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :quickstart.go
+> git ls-files --stage -- /home/mkasun/sandbox/curl-google/quickstart.go
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/mkasun/sandbox/curl-google/quickstart.go
+> git rev-parse main
+> git cat-file -s ec621ea561f977572c580f7a30a18a62c50ef3a8
+> git rev-parse --symbolic-full-name main@{u}
+> git show --textconv :quickstart.go
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

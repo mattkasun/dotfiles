@@ -1,0 +1,19 @@
+00:00:00.873747 VirtualBox GUI VM Selector Window 6.1.10_Ubuntu r138449 linux.amd64 (Jun  6 2020 11:31:37) release log
+00:00:00.873749 Log opened 2020-11-29T15:52:13.290284000Z
+00:00:00.873750 Build Type: release
+00:00:00.873754 OS Product: Linux
+00:00:00.873755 OS Release: 5.4.0-54-generic
+00:00:00.873756 OS Version: #60-Ubuntu SMP Fri Nov 6 10:37:59 UTC 2020
+00:00:00.873788 DMI Product Name: Latitude E7440
+00:00:00.873797 DMI Product Version: 01
+00:00:00.873805 Firmware type: UEFI
+00:00:00.873975 Secure Boot: Disabled
+00:00:00.874018 Host RAM: 7866MB (7.6GB) total, 4120MB (4.0GB) available
+00:00:00.874027 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.874027 Process ID: 20493
+00:00:00.874028 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.874058 Qt version: 5.12.8
+00:00:00.929159 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.929244 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.448734 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 2340x32 x 420x998
+00:00:02.448868 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 3180x32 x 420x998

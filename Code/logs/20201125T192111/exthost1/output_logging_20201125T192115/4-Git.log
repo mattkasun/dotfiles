@@ -1,0 +1,19 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mkasun/sandbox/curl-google
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :quickstart.go
+> git ls-files --stage -- /home/mkasun/sandbox/curl-google/quickstart.go
+> git cat-file -s ec621ea561f977572c580f7a30a18a62c50ef3a8
+> git check-ignore -v -z --stdin
+> git show --textconv :quickstart.go
+> git ls-files --stage -- /home/mkasun/sandbox/curl-google/quickstart.go
+> git cat-file -s ec621ea561f977572c580f7a30a18a62c50ef3a8

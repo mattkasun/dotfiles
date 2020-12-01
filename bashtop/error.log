@@ -1,0 +1,52 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 258321
+/usr/lib/python3/dist-packages/psutil/_pslinux.py:1222: RuntimeWarning: ignoring FileNotFoundError(2, 'No such file or directory') for file '/sys/class/hwmon/hwmon0/temp1_input'
+  warnings.warn("ignoring %r for file %r" % (err, path),
+/usr/lib/python3/dist-packages/psutil/_pslinux.py:1222: RuntimeWarning: ignoring FileNotFoundError(2, 'No such file or directory') for file '/sys/class/hwmon/hwmon0/temp2_input'
+  warnings.warn("ignoring %r for file %r" % (err, path),
+/usr/lib/python3/dist-packages/psutil/_pslinux.py:1222: RuntimeWarning: ignoring FileNotFoundError(2, 'No such file or directory') for file '/sys/class/hwmon/hwmon2/temp1_input'
+  warnings.warn("ignoring %r for file %r" % (err, path),
+/usr/lib/python3/dist-packages/psutil/_pslinux.py:1222: RuntimeWarning: ignoring FileNotFoundError(2, 'No such file or directory') for file '/sys/class/hwmon/hwmon2/temp2_input'
+  warnings.warn("ignoring %r for file %r" % (err, path),
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+05:03:31 PM ERROR: On line 2673 
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+05:03:37 PM ERROR: On line 2673 (MUTED!)
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+PSUTIL ERROR! Command: get_detailed_names_cmd(2)
+psutil.NoSuchProcess no process found with pid 0
+error: process ID out of range
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+05:03:56 PM ERROR: On line 2457 
+05:04:01 PM ERROR: On line 3328 
+05:04:01 PM ERROR: On line 3329 
+05:04:04 PM ERROR: On line 3328 (MUTED!)
+05:04:04 PM ERROR: On line 3329 (MUTED!)
+/usr/bin/bashtop: line 1: 258337 Killed                  coproc pycoproc ( python3 ${pywrapper} )
+/usr/bin/bashtop: line 4817: ${pycoproc[1]}: ambiguous redirect
+/usr/bin/bashtop: line 4820: read: -t: invalid file descriptor specification

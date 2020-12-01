@@ -1,0 +1,6 @@
+Command=/home/mkasun/bin/test-wg.sh
+UseLabel=0
+Text=Wireguard
+UpdatePeriod=30000
+Font=Monospace 10
+

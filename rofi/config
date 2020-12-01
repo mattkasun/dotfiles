@@ -1,0 +1,3 @@
+rofi.theme: /usr/share/rofi/themes/fancy.rasi
+rofi.modi: run,ssh,window
+#rofi.modi: i3help:i3help

@@ -1,0 +1,13 @@
+2020/11/23-10:32:20.942 27d8b Reusing MANIFEST /home/mkasun/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-10:32:20.942 27d8b Recovering log #16
+2020/11/23-10:32:20.977 27d8b Reusing old log /home/mkasun/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000016.log 
+2020/11/23-10:32:34.884 27e19 Level-0 table #22: started
+2020/11/23-10:32:34.914 27e19 Level-0 table #22: 1151475 bytes OK
+2020/11/23-10:32:34.921 27e19 Delete type=0 #16
+2020/11/23-10:32:34.922 27e19 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/23-10:33:28.440 27e19 Compacting 1@1 + 1@2 files
+2020/11/23-10:33:28.458 27e19 Generated table #23@1: 1303 keys, 100854 bytes
+2020/11/23-10:33:28.458 27e19 Compacted 1@1 + 1@2 files => 100854 bytes
+2020/11/23-10:33:28.464 27e19 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-10:33:28.465 27e19 Delete type=2 #22
+2020/11/23-10:33:28.465 27e19 Delete type=2 #19
