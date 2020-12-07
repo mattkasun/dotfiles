@@ -22,5 +22,5 @@ Color=rgb(240,240,0)
 Text=swap
 
 [SL_Uptime]
-Enabled=false
+Enabled=true
 

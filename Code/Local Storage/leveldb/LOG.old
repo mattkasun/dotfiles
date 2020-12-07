@@ -1,1 +1,3 @@
-2020/11/17-17:25:35.455 35a65 Reusing MANIFEST /home/mkasun/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2020/11/25-19:21:11.722 57b8 Reusing MANIFEST /home/mkasun/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2020/11/25-19:21:11.722 57b8 Recovering log #3
+2020/11/25-19:21:11.722 57b8 Reusing old log /home/mkasun/.config/Code/Local Storage/leveldb/000003.log 

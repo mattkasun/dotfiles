@@ -390,8 +390,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -807,11 +806,13 @@
                     },
                     {
                         "id": "workbench.action.debug.stop",
-                        "label": "&&Stop Debugging"
+                        "label": "&&Stop Debugging",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.restart",
-                        "label": "&&Restart Debugging"
+                        "label": "&&Restart Debugging",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1477,9 +1478,9 @@
             "backupPath": "/home/mkasun/.config/Code/Backups/201c3120e430d550f8617d5343753c2a",
             "uiState": {
                 "mode": 1,
-                "x": 2,
-                "y": 18,
-                "width": 1916,
+                "x": 4,
+                "y": 28,
+                "width": 1600,
                 "height": 1040
             }
         },

@@ -94,7 +94,7 @@ application/x-gzip=gnucash.desktop
 x-scheme-handler/postman=Postman.desktop
 
 [Added Associations]
-x-scheme-handler/mailto=org.gnome.Geary.desktop;
+x-scheme-handler/mailto=exo-mail-reader.desktop;
 application/x-gzip=gnucash.desktop;
 application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;
 text/csv=libreoffice-calc.desktop;
@@ -103,4 +103,6 @@ application/octet-stream=org.gnome.FileRoller.desktop;
 multipart/form-data=gvim.desktop;
 inode/directory=exo-file-manager.desktop;
 x-scheme-handler/trash=exo-file-manager.desktop;
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
 

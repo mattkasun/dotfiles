@@ -1,10 +1,10 @@
-Use_Label=false
+Use_Label=true
 Show_Values=false
 Show_Bars=true
 Colorize_Values=true
 Color_In=rgb(78,154,6)
 Color_Out=rgb(164,0,0)
-Text=Net
+Text=wg0
 Network_Device=wg0
 Max_In=4096
 Max_Out=4096

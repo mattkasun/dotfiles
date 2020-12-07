@@ -1,0 +1,13 @@
+set from = "matt.kasun@gmail.com"
+set realname = "Matthew R. Kasun"
+
+set imap_user = "matt.kasun@gmail.com"
+set imap_pass = "KiHk8KLHM*Um3h"
+set smtp_url = "smtps://matt.kasun@smtp.gmail.com"
+set smtp_pass = "KiHk8KLHM*Um3h"
+
+set folder = "imaps://imap.gmail.com/"
+set spoolfile = "+Inbox"
+set postponed = "+[Gmail]/Drafts"
+set record = "+[Gmail]/Sent Mail"
+set trash = "+[Gmail]/Trash"

@@ -1,0 +1,14 @@
+﻿<layouts>
+  <layout name="Default" width="836" height="876" size="836" prefSize="836" defaultHorSize="-1" defaultVerSize="-1" type="Horizontal">
+    <group size="64" prefSize="64" defaultHorSize="65" defaultVerSize="130" type="Vertical">
+      <item size="436" prefSize="436" defaultHorSize="65" defaultVerSize="130" id="Toolbox" visible="True" status="Dockable" />
+      <item size="437" prefSize="437" defaultHorSize="65" defaultVerSize="130" id="Palette" visible="True" status="Dockable" />
+    </group>
+    <item size="554" prefSize="554" defaultHorSize="130" defaultVerSize="130" id="Canvas" visible="True" status="Dockable" />
+    <group size="212" prefSize="212" defaultHorSize="130" defaultVerSize="130" type="Vertical">
+      <item size="290" prefSize="290" defaultHorSize="130" defaultVerSize="130" id="Layers" visible="True" status="Dockable" />
+      <item size="290" prefSize="290" defaultHorSize="130" defaultVerSize="130" id="Images" visible="True" status="Dockable" />
+      <item size="290" prefSize="290" defaultHorSize="130" defaultVerSize="130" id="History" visible="True" status="Dockable" />
+    </group>
+  </layout>
+</layouts>
