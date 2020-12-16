@@ -1,0 +1,8 @@
+T 1607567272 19*	Now talking on 22#wireguard
+T 1607567272 22*	Topic for 22#wireguard is: WireGuard - Secure Network Tunnel | install: www.wireguard.com/install | source: www.wireguard.com/repositories | free stickers: https://goo.gl/6uEMkD | help us: www.wireguard.com/todo | mailing list: https://lists.zx2c4.com/mailman/listinfo/wireguard | problem? send https://xn--4db.cc/f1M3WUAr
+T 1607567272 22*	Topic for 22#wireguard set by 26amdj!~aaron@freenode/staff/atheme.amdj (24Fri Dec 27 11:20:57 2019)
+T 1607568316 24*	tsal has quit (Ping timeout: 240 seconds)
+T 1607568550 23*	tsal (~tsal@i59F525B7.versanet.de23) has joined
+T 1607568632 24*	torsina4 has quit (Quit: Ping timeout (120 seconds))
+T 1607568647 23*	torsina4 (~torsina@116.203.59.8823) has joined
+T 1607569450 24*	pks has quit (Ping timeout: 265 seconds)

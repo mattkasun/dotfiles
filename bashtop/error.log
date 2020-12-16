@@ -50,3 +50,5 @@ For more details see ps(1).
 /usr/bin/bashtop: line 1: 258337 Killed                  coproc pycoproc ( python3 ${pywrapper} )
 /usr/bin/bashtop: line 4817: ${pycoproc[1]}: ambiguous redirect
 /usr/bin/bashtop: line 4820: read: -t: invalid file descriptor specification
+ 
+New instance of bashtop version: 0.9.25 Pid: 382001

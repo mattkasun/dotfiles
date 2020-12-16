@@ -2,6 +2,51 @@
     <folder id="default" label="Default Folder" path="/home/mkasun/Sync" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
         <filesystemType>basic</filesystemType>
         <device id="EQZWVJR-26CZEAF-NKLLCCX-AODLUDW-OSNTQK7-J2OZENA-UHXT4SM-3CO7KAL" introducedBy=""></device>
+        <device id="GMI7J6T-P33B5OI-PYXZ53F-6MA5NGX-4PSFHV6-W5ME2E3-TNNGR2H-IAIEYQI" introducedBy=""></device>
+        <device id="KDMQYQW-5E7XDPK-ETMYADV-N4LJ7CH-UIW27DS-Z6TW6PA-H4VAURJ-ROEIZAX" introducedBy=""></device>
+        <minDiskFree unit="%">1</minDiskFree>
+        <versioning></versioning>
+        <copiers>0</copiers>
+        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
+        <hashers>0</hashers>
+        <order>random</order>
+        <ignoreDelete>false</ignoreDelete>
+        <scanProgressIntervalS>0</scanProgressIntervalS>
+        <pullerPauseS>0</pullerPauseS>
+        <maxConflicts>-1</maxConflicts>
+        <disableSparseFiles>false</disableSparseFiles>
+        <disableTempIndexes>false</disableTempIndexes>
+        <paused>false</paused>
+        <weakHashThresholdPct>25</weakHashThresholdPct>
+        <markerName>.stfolder</markerName>
+        <useLargeBlocks>true</useLargeBlocks>
+        <copyOwnershipFromParent>false</copyOwnershipFromParent>
+    </folder>
+    <folder id="sm-t860_mgxr-photos" label="Camera" path="~/Camera" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
+        <filesystemType>basic</filesystemType>
+        <device id="GMI7J6T-P33B5OI-PYXZ53F-6MA5NGX-4PSFHV6-W5ME2E3-TNNGR2H-IAIEYQI" introducedBy=""></device>
+        <device id="KDMQYQW-5E7XDPK-ETMYADV-N4LJ7CH-UIW27DS-Z6TW6PA-H4VAURJ-ROEIZAX" introducedBy=""></device>
+        <minDiskFree unit="%">1</minDiskFree>
+        <versioning></versioning>
+        <copiers>0</copiers>
+        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
+        <hashers>0</hashers>
+        <order>random</order>
+        <ignoreDelete>false</ignoreDelete>
+        <scanProgressIntervalS>0</scanProgressIntervalS>
+        <pullerPauseS>0</pullerPauseS>
+        <maxConflicts>-1</maxConflicts>
+        <disableSparseFiles>false</disableSparseFiles>
+        <disableTempIndexes>false</disableTempIndexes>
+        <paused>false</paused>
+        <weakHashThresholdPct>25</weakHashThresholdPct>
+        <markerName>.stfolder</markerName>
+        <useLargeBlocks>true</useLargeBlocks>
+        <copyOwnershipFromParent>false</copyOwnershipFromParent>
+    </folder>
+    <folder id="ycfrh-6glfp" label="pictures" path="~/pictures" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
+        <filesystemType>basic</filesystemType>
+        <device id="GMI7J6T-P33B5OI-PYXZ53F-6MA5NGX-4PSFHV6-W5ME2E3-TNNGR2H-IAIEYQI" introducedBy=""></device>
         <device id="KDMQYQW-5E7XDPK-ETMYADV-N4LJ7CH-UIW27DS-Z6TW6PA-H4VAURJ-ROEIZAX" introducedBy=""></device>
         <minDiskFree unit="%">1</minDiskFree>
         <versioning></versioning>
@@ -22,6 +67,14 @@
         <copyOwnershipFromParent>false</copyOwnershipFromParent>
     </folder>
     <device id="EQZWVJR-26CZEAF-NKLLCCX-AODLUDW-OSNTQK7-J2OZENA-UHXT4SM-3CO7KAL" name="pi4" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>true</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+        <maxRequestKiB>0</maxRequestKiB>
+    </device>
+    <device id="GMI7J6T-P33B5OI-PYXZ53F-6MA5NGX-4PSFHV6-W5ME2E3-TNNGR2H-IAIEYQI" name="SM-T860 (Tab 6)" compression="metadata" introducer="true" skipIntroductionRemovals="false" introducedBy="">
         <address>dynamic</address>
         <paused>false</paused>
         <autoAcceptFolders>true</autoAcceptFolders>

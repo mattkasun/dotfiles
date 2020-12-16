@@ -17,7 +17,6 @@
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
         <value type="int" value="28"/>
-        <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="4"/>
         <value type="int" value="5"/>
@@ -26,6 +25,7 @@
         <value type="int" value="7"/>
         <value type="int" value="16"/>
         <value type="int" value="6"/>
+        <value type="int" value="20"/>
         <value type="int" value="19"/>
         <value type="int" value="17"/>
         <value type="int" value="8"/>
@@ -86,6 +86,9 @@
       <property name="show-handle" type="empty"/>
       <property name="middle-click" type="empty"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="hexchat"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="networkmanager applet"/>
         <value type="string" value="vlc"/>
       </property>
     </property>
@@ -105,7 +108,7 @@
       <property name="enable-mpris" type="empty"/>
       <property name="mixer-command" type="empty"/>
       <property name="show-notifications" type="empty"/>
-      <property name="mpris-players" type="string" value="firefox.instance4567;firefox.instance5808;io.github.celluloid_player.Celluloid.instance-1;vlc;vlc.instance320081;vlc.instance320142"/>
+      <property name="mpris-players" type="string" value="firefox.instance387111;firefox.instance4567;firefox.instance5808;io.github.celluloid_player.Celluloid.instance-1;vlc;vlc.instance320081;vlc.instance320142"/>
     </property>
     <property name="plugin-13" type="empty">
       <property name="digital-format" type="empty"/>
@@ -132,6 +135,11 @@
       <property name="style" type="uint" value="0"/>
       <property name="expand" type="bool" value="true"/>
     </property>
-    <property name="plugin-16" type="string" value="statusnotifier"/>
+    <property name="plugin-16" type="string" value="statusnotifier">
+      <property name="known-items" type="array">
+        <value type="string" value="vlc"/>
+      </property>
+    </property>
+    <property name="plugin-20" type="string" value="xfce4-sensors-plugin"/>
   </property>
 </channel>

@@ -1,0 +1,151 @@
+T 1607565978 19*	Now talking on 22#linuxmint-help
+T 1607565978 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel |​ All Linux Mint support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+T 1607565978 22*	Topic for 22#linuxmint-help set by 26nameless!~pikiwedia@linuxmint/team/pikiwedia (24Thu May 30 10:23:17 2019)
+T 1607565978 -18NickServ-	Welcome to SpotChat, mkasun! Here on SpotChat, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+T 1607565979 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+T 1607565992 24*	parallels has quit (Quit: Leaving)
+T 1607565997 23*	mmmv (~mmmv@SpotChat-u2btd6.as43234.net23) has joined
+T 1607566025 >18NickServ<	help
+T 1607566025 -18NickServ-	***** NickServ Help *****
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	NickServ allows users to 'register' a nickname, and stop
+T 1607566025 -18NickServ-	others from using that nick. NickServ allows the owner of a
+T 1607566025 -18NickServ-	nickname to disconnect a user from the network that is using
+T 1607566025 -18NickServ-	their nickname.
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	If a registered nick is not used by the owner for 90
+T 1607566025 -18NickServ-	days, NickServ will drop the nickname, allowing it to be
+T 1607566025 -18NickServ-	re-registered.
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	The following commands are available:
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	  CERT            Changes and shows your nickname CertFP authentication list.
+T 1607566025 -18NickServ-	  GHOST           Reclaims use of a nickname.
+T 1607566025 -18NickServ-	  IDENTIFY        Identifies to services for a nickname.
+T 1607566025 -18NickServ-	  INFO            Displays information on registrations.
+T 1607566025 -18NickServ-	  LISTCHANS       Lists channels that you have access to.
+T 1607566025 -18NickServ-	  LISTGROUPS      Lists groups that you have access to.
+T 1607566025 -18NickServ-	  LOGOUT          Logs your services session out.
+T 1607566025 -18NickServ-	  REGAIN          Regain usage of a nickname.
+T 1607566025 -18NickServ-	  REGISTER        Registers a nickname.
+T 1607566025 -18NickServ-	  RELEASE         Releases a services enforcer.
+T 1607566025 -18NickServ-	  SENDPASS        Email registration passwords.
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	The following additional commands are available:
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	  ACC, HELP, SETPASS, STATUS, TAXONOMY, VERIFY
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	For more information on a NickServ command, type:
+T 1607566025 -18NickServ-	/msg NickServ HELP <command>
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	For a verbose listing of all NickServ commands, type:
+T 1607566025 -18NickServ-	/msg NickServ HELP COMMANDS
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	If you're having trouble, or you need some additional help,
+T 1607566025 -18NickServ-	you may wish to join the help channel #SpotChat
+T 1607566025 -18NickServ-	 
+T 1607566025 -18NickServ-	***** End of Help *****
+T 1607566121 23*	kb (~kb@SpotChat-brftsk.llin.7nhd.0500.2601.IP23) has joined
+T 1607566238 23*	dave_ (~dave@SpotChat-0k4l40.tp6t.i1b6.100c.2600.IP23) has joined
+T 1607566239 24*	ageis has quit (Ping timeout: 121 seconds)
+T 1607566262 24*	moritz has quit (Connection closed)
+T 1607566273 24*	dave_ has quit (Connection closed)
+T 1607566315 23*	Guest8034 (~steve@SpotChat-en4ksq.wbroadband.net.au23) has joined
+T 1607566331 19*	Now talking on 22#linuxmint-help
+T 1607566331 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel |​ All Linux Mint support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+T 1607566331 22*	Topic for 22#linuxmint-help set by 26nameless!~pikiwedia@linuxmint/team/pikiwedia (24Thu May 30 10:23:17 2019)
+T 1607566331 -18NickServ-	Welcome to SpotChat, helloworld! Here on SpotChat, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+T 1607566331 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+T 1607566365 24*	thusgyun61 has quit (Connection closed)
+T 1607566447 23*	kevin (~kevin@SpotChat-9f1.lh6.79.115.IP23) has joined
+T 1607566491 23*	moritz (~moritz@SpotChat-iaehhg.2lf5.rgld.810d.2a02.IP23) has joined
+T 1607566517 23*	ggb (~ggb@SpotChat-s90.v72.58.172.IP23) has joined
+T 1607566523 24*	ggb has quit (Quit: Leaving)
+T 1607566558 23*	ugnius (~ugnius@SpotChat-ek1nps.static.zebra.lt23) has joined
+T 1607566580 23*	axslingr (~axslingr@SpotChat-qj2.5s3.14.67.IP23) has joined
+T 1607566580 24*	ugnius has quit (Quit: Leaving)
+T 1607566585 18<kevin18>	Hi. I'm dumb and do not know how to open any one of the std applets on offer. What must I do to activate an applet?
+T 1607566637 24*	lsblue has quit (Quit: Leaving)
+T 1607566682 23*	poraj (~poraj@SpotChat-u60.nro.224.24.IP23) has joined
+T 1607566737 24*	axslingr (~axslingr@SpotChat-qj2.5s3.14.67.IP24) has left ("Leaving")
+T 1607566772 24*	poraj has quit (Quit: Leaving)
+T 1607566812 18<aloo_shu18>	add them to a panel [configure] [some will do something if clicked]
+T 1607566847 23*	two_dogs (~SkyNet-Term@praia.do.portopim23) has joined
+T 1607566892 23*	ugnius (~quassel@SpotChat-n957ol.1dbr.6snp.41d0.2001.IP23) has joined
+T 1607566904 24*	Allred58 has quit (Connection closed)
+T 1607566918 18<aloo_shu18>	right clicking on an empty area in a panel usually brings up panel management for it, and there may be a panel manager in your settings, too
+T 1607566958 23*	sdragon (~sdragon@SpotChat-p4l.05p.58.2.IP23) has joined
+T 1607567024 18<aloo_shu18>	sometimes adding applets is done with a + sign, sometimes you can drag and drop them onto a panel (once you are in a list of applets)
+T 1607567066 18<remote18>	what DE are you running kevin?
+T 1607567145 23*	dorp323 (~dorp323@SpotChat-6n8.0uj.162.78.IP23) has joined
+T 1607567146 24*	user__ has quit (Connection closed)
+T 1607567186 23*	axslingr (~axslingr@SpotChat-qj2.5s3.14.67.IP23) has joined
+T 1607567205 23*	linux (~linux@SpotChat-e74otj.anteldata.net.uy23) has joined
+T 1607567246 23*	xmetal (~xmetal@SpotChat-cqb7nu.fl.comcast.net23) has joined
+T 1607567247 23*	moritz_ (~moritz@SpotChat-iaehhg.2lf5.rgld.810d.2a02.IP23) has joined
+T 1607567272 24*	dorp323 has quit (Quit: Leaving)
+T 1607567286 23*	dorp323 (~dorp323@SpotChat-6n8.0uj.162.78.IP23) has joined
+T 1607567298 18<sweetstarr69_web18>	I have tried to set google as a default search engine for chromium but this browser just wont let me no matter what the help pages say. Why is the browser fighting me so much?
+T 1607567305 24*	linux has quit (Quit: Leaving)
+T 1607567320 18<dorp32318>	hello
+T 1607567354 23*	montajniki (~montajniki@SpotChat-h2q.mm4.135.91.IP23) has joined
+T 1607567401 24*	montajniki has quit (Quit: Leaving)
+T 1607567436 18*	enyc meows
+T 1607567500 24*	axslingr has quit (Quit: Leaving)
+T 1607567522 24*	kevin has quit (Quit: Leaving)
+T 1607567546 23*	hades (~hades@SpotChat-ams.kpu.88.223.IP23) has joined
+T 1607567549 18<dorp32318>	ı need help
+T 1607567556 24*	aloo_shu has quit (Quit: I shall be with you tomorrow, fresh like the morning dew)
+T 1607567578 18<varun18>	dorp323: okay whats the problem?
+T 1607567620 24*	hades has quit (Quit: Leaving)
+T 1607567683 24*	two_dogs has quit (Connection closed)
+T 1607567698 18<dorp32318>	ı cant run the tor application
+T 1607567797 23*	gvsa123 (~gvsa123456@SpotChat-2jetdc.abhsia.telus.net23) has joined
+T 1607567827 24*	smutna has quit (Connection closed)
+T 1607567903 24*	Dolu has quit (Ping timeout: 121 seconds)
+T 1607567963 23*	mint (~mint@SpotChat-6utc4u.r4pl.pat8.8600.2605.IP23) has joined
+T 1607567966 24*	rotoplop has quit (Ping timeout: 121 seconds)
+T 1607567975 23*	ageis (~kevin@SpotChat-4gj.b39.35.161.IP23) has joined
+T 1607567984 24*	sweetstarr has quit (Quit: Leaving)
+T 1607567993 24*	28mint is now known as 18Guest2615
+T 1607568035 23*	sapusr (~sapusr@SpotChat-oc8.jbn.5.114.IP23) has joined
+T 1607568036 24*	sapusr has quit (Quit: Leaving)
+T 1607568081 23*	khoren (~khoren@SpotChat-vvd.2sf.42.212.IP23) has joined
+T 1607568188 24*	sweetstarr69_web has quit (Quit: http://www.mibbit.com ajax IRC Client)
+T 1607568366 23*	alexferreira (~alexferreir@SpotChat-ojo.a4h.37.177.IP23) has joined
+T 1607568367 24*	alexferreira has quit (Quit: Leaving)
+T 1607568400 23*	montajniki (~montajniki@SpotChat-h2q.mm4.135.91.IP23) has joined
+T 1607568406 23*	mint (~mint@SpotChat-796k5u.lmnb.n3m7.0f41.2a00.IP23) has joined
+T 1607568410 24*	montajniki has quit (Quit: Leaving)
+T 1607568412 18<mint18>	hi
+T 1607568436 24*	28mint is now known as 18Guest13
+T 1607568518 23*	eholmes (~eholmes@SpotChat-re3.3hv.13.198.IP23) has joined
+T 1607568603 18<Guest1318>	how create server?
+T 1607568637 18<dorp32318>	ı dont know ı need to tor server ıd
+T 1607568757 24*	pl_014 has quit (Ping timeout: 121 seconds)
+T 1607568764 23*	vickywicaks (~vickywicaks@SpotChat-lq3.2qf.163.125.IP23) has joined
+T 1607568779 24*	vickywicaks has quit (Quit: Leaving)
+T 1607568819 23*	Guest3834 (~AllredA@SpotChat-422f66.tupp.8012.1702.2600.IP23) has joined
+T 1607568882 23*	oscar (~oscar@SpotChat-tuh.ggh.19.47.IP23) has joined
+T 1607568899 18<user18>	sweetstarr69_web: did you configured this? chrome://settings/searchEngines
+T 1607568916 24*	Guest2615 has quit (Quit: Leaving)
+T 1607569041 23*	peetbog (~peetbog@linuxmint/team/peetbog23) has joined
+T 1607569041 22*	26ChanServ gives channel operator status to 18peetbog
+T 1607569144 24*	dorp323 has quit (Quit: Leaving)
+T 1607569167 23*	smilingcadaver (~smilingcada@SpotChat-puhl4q.rt63.33k4.fb90.2607.IP23) has joined
+T 1607569322 23*	qodisu (~qodisu@SpotChat-16m.pn7.166.125.IP23) has joined
+T 1607569397 18<qodisu18>	pa
+T 1607569427 24*	ageis has quit (Ping timeout: 121 seconds)
+T 1607569455 24*	qodisu has quit (Quit: Leaving)
+T 1607569562 23*	larry (~larry@SpotChat-99dehl.res.spectrum.com23) has joined
+T 1607569564 24*	Guest13 has quit (Quit: Leaving)
+T 1607569583 23*	larry_ (~larry@SpotChat-99dehl.res.spectrum.com23) has joined
+T 1607569588 24*	larry_ has quit (Connection closed)
+T 1608071832 19*	Now talking on 22#linuxmint-help
+T 1608071832 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel |​ All Linux Mint support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+T 1608071832 22*	Topic for 22#linuxmint-help set by 26nameless!~pikiwedia@linuxmint/team/pikiwedia (24Thu May 30 10:23:17 2019)
+T 1608071833 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+T 1608071887 23*	Amidala (~amidala@SpotChat-ttio68.abo.wanadoo.fr23) has joined
+T 1608071899 24*	sandman192__ has quit (Connection closed)
+T 1608071917 23*	sandman192__ (~Sandman192@SpotChat-0ven04.qhae.d26a.0306.2602.IP23) has joined
+T 1608071963 24*	Amidala has quit (Quit: Leaving)

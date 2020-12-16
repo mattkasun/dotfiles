@@ -1,0 +1,116 @@
+**** BEGIN LOGGING AT Wed Dec  9 21:15:47 2020
+
+Dec 09 21:15:47 *	*** Looking up your hostname...
+Dec 09 21:15:47 *	*** Checking Ident
+Dec 09 21:15:47 *	*** Couldn't look up your hostname
+Dec 09 21:15:56 *	*** No Ident response
+Dec 09 21:15:56 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Dec 09 21:15:56 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Dec 09 21:15:57 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Wed Dec  9 21:15:57 2020
+
+**** BEGIN LOGGING AT Wed Dec  9 21:15:57 2020
+
+Dec 09 21:15:57 *	Welcome to the freenode Internet Relay Chat Network helloworld
+Dec 09 21:15:57 *	Your host is egan.freenode.net[2001:5a0:40:50:66:110:9:37/6697], running version ircd-seven-1.1.9
+Dec 09 21:15:57 *	This server was created Fri May 1 2020 at 22:14:31 UTC
+Dec 09 21:15:57 *	egan.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Dec 09 21:15:57 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Dec 09 21:15:57 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+Dec 09 21:15:57 *	KNOCK SAFELIST ELIST=CTU MONITOR=100 WHOX :are supported by this server
+Dec 09 21:15:57 *	There are 102 users and 75132 invisible on 31 servers
+Dec 09 21:15:57 *	43 :IRC Operators online
+Dec 09 21:15:57 *	1 :unknown connection(s)
+Dec 09 21:15:57 *	42231 :channels formed
+Dec 09 21:15:57 *	I have 3620 clients and 1 servers
+Dec 09 21:15:57 *	3620 5422 :Current local users 3620, max 5422
+Dec 09 21:15:57 *	75234 90930 :Current global users 75234, max 90930
+Dec 09 21:15:57 *	Highest connection count: 5423 (5422 clients) (803945 connections received)
+Dec 09 21:15:57 *	- egan.freenode.net Message of the Day - 
+Dec 09 21:15:57 *	- Welcome to freenode - supporting the free and open source
+Dec 09 21:15:57 *	- software communities since 1998.
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- By connecting to freenode you indicate that you have read and
+Dec 09 21:15:57 *	- accept our policies and guidelines as set out on https://freenode.net
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- In the event that you observe behaviour that contravenes our policies,
+Dec 09 21:15:57 *	- please notify a volunteer staff member via private message, or send us an
+Dec 09 21:15:57 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Dec 09 21:15:57 *	- situation within a reasonable period of time, and we may request further
+Dec 09 21:15:57 *	- information or, as appropriate, involve other parties such as channel operators 
+Dec 09 21:15:57 *	- Group Contacts representing an on-topic group.
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- freenode runs an open proxy scanner.
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- If you are looking for assistance, you may be able to find a list of 
+Dec 09 21:15:57 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Dec 09 21:15:57 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Dec 09 21:15:57 *	- any of us at any time. Please note that freenode predominantly provides 
+Dec 09 21:15:57 *	- assistance via private message, and while we have a network channel the 
+Dec 09 21:15:57 *	- primary venue for support requests is via private message to a member 
+Dec 09 21:15:57 *	- of the volunteer staff team.
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- From time to time, volunteer staff may send server-wide notices relating to
+Dec 09 21:15:57 *	- the project, or the communities that we host. The majority of such notices
+Dec 09 21:15:57 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Dec 09 21:15:57 *	- do not miss them. Important messages relating to the freenode project, including
+Dec 09 21:15:57 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Dec 09 21:15:57 *	- global notices.
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- Representing an on-topic project? Don't forget to register, more information
+Dec 09 21:15:57 *	- can be found on the https://freenode.net website under "Group Registration".
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Dec 09 21:15:57 *	- network going for close to two decades.
+Dec 09 21:15:57 *	-  
+Dec 09 21:15:57 *	- Thank you for using freenode!
+Dec 09 21:15:57 *	End of /MOTD command.
+Dec 09 21:15:57 *	helloworld sets mode +Z on helloworld
+Dec 09 21:15:57 *	helloworld sets mode +i on helloworld
+Dec 09 21:15:57 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 09 21:16:30 >NickServ<	help
+Dec 09 21:16:30 -NickServ-	***** NickServ Help *****
+Dec 09 21:16:30 -NickServ-	NickServ allows users to 'register' a nickname, and stop
+Dec 09 21:16:30 -NickServ-	others from using that nick. NickServ allows the owner of a
+Dec 09 21:16:30 -NickServ-	nickname to disconnect a user from the network that is using
+Dec 09 21:16:30 -NickServ-	their nickname.
+Dec 09 21:16:30 -NickServ-	 
+Dec 09 21:16:30 -NickServ-	For more information on a command, type:
+Dec 09 21:16:30 -NickServ-	/msg NickServ help <command>
+Dec 09 21:16:30 -NickServ-	For a verbose listing of all commands, type:
+Dec 09 21:16:30 -NickServ-	/msg NickServ help commands
+Dec 09 21:16:30 -NickServ-	 
+Dec 09 21:16:30 -NickServ-	The following commands are available:
+Dec 09 21:16:30 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 09 21:16:30 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 09 21:16:30 -NickServ-	INFO            Displays information on registrations.
+Dec 09 21:16:30 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 09 21:16:30 -NickServ-	REGISTER        Registers a nickname.
+Dec 09 21:16:30 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 09 21:16:30 -NickServ-	SENDPASS        Email registration passwords.
+Dec 09 21:16:30 -NickServ-	 
+Dec 09 21:16:30 -NickServ-	Other commands: ACC, ACCESS, CERT, DROP, HELP, LOGOUT, 
+Dec 09 21:16:30 -NickServ-	                REGAIN, SETPASS, STATUS, TAXONOMY, VERIFY
+Dec 09 21:16:30 -NickServ-	***** End of Help *****
+Dec 09 21:17:31 No channel joined. Try /join #<channel>
+Dec 09 21:20:49 *	You are now known as dlrow_olleh
+Dec 09 21:21:10 *	channel :Unknown command
+Dec 09 21:21:35 *	#wireguard :Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+Dec 09 21:25:28 >NickServ<	identify ****
+Dec 09 21:25:28 -NickServ-	dlrow_olleh is not a registered nickname.
+Dec 09 21:26:04 >NickServ<	REGISTER dlrow_olleh mkasun@gmail.com
+Dec 09 21:26:05 -NickServ-	You cannot use your nickname as a password.
+Dec 09 21:26:05 -NickServ-	Syntax: REGISTER <password> <email>
+Dec 09 21:26:44 >NickServ<	REGISTER  Gt&AWkH7u4^iqC mkasun@gmail.com
+Dec 09 21:26:44 -NickServ-	An email containing nickname activation instructions has been sent to mkasun@gmail.com.
+Dec 09 21:26:44 -NickServ-	If you do not complete registration within one day, your nickname will expire.
+Dec 09 21:26:44 -NickServ-	dlrow_olleh is now registered to mkasun@gmail.com, with the password Gt&AWkH7u4^iqC.
+Dec 09 21:26:44 -NickServ-	 
+Dec 09 21:26:44 -NickServ-	For frequently-asked questions about the network, please see the
+Dec 09 21:26:44 -NickServ-	Knowledge Base page (https://freenode.net/kb/all). Should you need more
+Dec 09 21:26:44 -NickServ-	help you can /join #freenode to find network staff.
+Dec 09 21:27:30 >NickServ<	VERIFY REGISTER dlrow_olleh kmryfuiivmyj
+Dec 09 21:27:30 -NickServ-	dlrow_olleh has now been verified.
+Dec 09 21:27:30 -NickServ-	Thank you for verifying your e-mail address! You have taken steps in ensuring that your registrations are not exploited.
+**** ENDING LOGGING AT Wed Dec  9 22:07:06 2020
+

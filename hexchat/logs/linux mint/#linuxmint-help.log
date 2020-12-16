@@ -1,0 +1,163 @@
+**** BEGIN LOGGING AT Wed Dec  9 21:06:18 2020
+
+Dec 09 21:06:18 *	Now talking on #linuxmint-help
+Dec 09 21:06:18 *	Topic for #linuxmint-help is: Official Linux Mint Support Channel |​ All Linux Mint support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+Dec 09 21:06:18 *	Topic for #linuxmint-help set by nameless!~pikiwedia@linuxmint/team/pikiwedia (Thu May 30 10:23:17 2019)
+Dec 09 21:06:18 -NickServ-	Welcome to SpotChat, mkasun! Here on SpotChat, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+Dec 09 21:06:19 -ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+Dec 09 21:06:32 *	parallels has quit (Quit: Leaving)
+Dec 09 21:06:37 *	mmmv (~mmmv@SpotChat-u2btd6.as43234.net) has joined
+Dec 09 21:07:05 >NickServ<	help
+Dec 09 21:07:05 -NickServ-	***** NickServ Help *****
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	NickServ allows users to 'register' a nickname, and stop
+Dec 09 21:07:05 -NickServ-	others from using that nick. NickServ allows the owner of a
+Dec 09 21:07:05 -NickServ-	nickname to disconnect a user from the network that is using
+Dec 09 21:07:05 -NickServ-	their nickname.
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	If a registered nick is not used by the owner for 90
+Dec 09 21:07:05 -NickServ-	days, NickServ will drop the nickname, allowing it to be
+Dec 09 21:07:05 -NickServ-	re-registered.
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	The following commands are available:
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	  CERT            Changes and shows your nickname CertFP authentication list.
+Dec 09 21:07:05 -NickServ-	  GHOST           Reclaims use of a nickname.
+Dec 09 21:07:05 -NickServ-	  IDENTIFY        Identifies to services for a nickname.
+Dec 09 21:07:05 -NickServ-	  INFO            Displays information on registrations.
+Dec 09 21:07:05 -NickServ-	  LISTCHANS       Lists channels that you have access to.
+Dec 09 21:07:05 -NickServ-	  LISTGROUPS      Lists groups that you have access to.
+Dec 09 21:07:05 -NickServ-	  LOGOUT          Logs your services session out.
+Dec 09 21:07:05 -NickServ-	  REGAIN          Regain usage of a nickname.
+Dec 09 21:07:05 -NickServ-	  REGISTER        Registers a nickname.
+Dec 09 21:07:05 -NickServ-	  RELEASE         Releases a services enforcer.
+Dec 09 21:07:05 -NickServ-	  SENDPASS        Email registration passwords.
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	The following additional commands are available:
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	  ACC, HELP, SETPASS, STATUS, TAXONOMY, VERIFY
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	For more information on a NickServ command, type:
+Dec 09 21:07:05 -NickServ-	/msg NickServ HELP <command>
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	For a verbose listing of all NickServ commands, type:
+Dec 09 21:07:05 -NickServ-	/msg NickServ HELP COMMANDS
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	If you're having trouble, or you need some additional help,
+Dec 09 21:07:05 -NickServ-	you may wish to join the help channel #SpotChat
+Dec 09 21:07:05 -NickServ-	 
+Dec 09 21:07:05 -NickServ-	***** End of Help *****
+Dec 09 21:08:41 *	kb (~kb@SpotChat-brftsk.llin.7nhd.0500.2601.IP) has joined
+Dec 09 21:10:38 *	dave_ (~dave@SpotChat-0k4l40.tp6t.i1b6.100c.2600.IP) has joined
+Dec 09 21:10:39 *	ageis has quit (Ping timeout: 121 seconds)
+Dec 09 21:11:02 *	moritz has quit (Connection closed)
+Dec 09 21:11:13 *	dave_ has quit (Connection closed)
+Dec 09 21:11:55 *	Guest8034 (~steve@SpotChat-en4ksq.wbroadband.net.au) has joined
+**** ENDING LOGGING AT Wed Dec  9 21:11:56 2020
+
+**** BEGIN LOGGING AT Wed Dec  9 21:12:11 2020
+
+Dec 09 21:12:11 *	Now talking on #linuxmint-help
+Dec 09 21:12:11 *	Topic for #linuxmint-help is: Official Linux Mint Support Channel |​ All Linux Mint support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+Dec 09 21:12:11 *	Topic for #linuxmint-help set by nameless!~pikiwedia@linuxmint/team/pikiwedia (Thu May 30 10:23:17 2019)
+Dec 09 21:12:11 -NickServ-	Welcome to SpotChat, helloworld! Here on SpotChat, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+Dec 09 21:12:11 -ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+Dec 09 21:12:45 *	thusgyun61 has quit (Connection closed)
+Dec 09 21:14:07 *	kevin (~kevin@SpotChat-9f1.lh6.79.115.IP) has joined
+Dec 09 21:14:51 *	moritz (~moritz@SpotChat-iaehhg.2lf5.rgld.810d.2a02.IP) has joined
+Dec 09 21:15:17 *	ggb (~ggb@SpotChat-s90.v72.58.172.IP) has joined
+Dec 09 21:15:23 *	ggb has quit (Quit: Leaving)
+Dec 09 21:15:58 *	ugnius (~ugnius@SpotChat-ek1nps.static.zebra.lt) has joined
+Dec 09 21:16:20 *	axslingr (~axslingr@SpotChat-qj2.5s3.14.67.IP) has joined
+Dec 09 21:16:20 *	ugnius has quit (Quit: Leaving)
+Dec 09 21:16:25 <kevin>	Hi. I'm dumb and do not know how to open any one of the std applets on offer. What must I do to activate an applet?
+Dec 09 21:17:17 *	lsblue has quit (Quit: Leaving)
+Dec 09 21:18:02 *	poraj (~poraj@SpotChat-u60.nro.224.24.IP) has joined
+Dec 09 21:18:57 *	axslingr (~axslingr@SpotChat-qj2.5s3.14.67.IP) has left ("Leaving")
+Dec 09 21:19:32 *	poraj has quit (Quit: Leaving)
+Dec 09 21:20:12 <aloo_shu>	add them to a panel [configure] [some will do something if clicked]
+Dec 09 21:20:47 *	two_dogs (~SkyNet-Term@praia.do.portopim) has joined
+Dec 09 21:21:32 *	ugnius (~quassel@SpotChat-n957ol.1dbr.6snp.41d0.2001.IP) has joined
+Dec 09 21:21:44 *	Allred58 has quit (Connection closed)
+Dec 09 21:21:58 <aloo_shu>	right clicking on an empty area in a panel usually brings up panel management for it, and there may be a panel manager in your settings, too
+Dec 09 21:22:38 *	sdragon (~sdragon@SpotChat-p4l.05p.58.2.IP) has joined
+Dec 09 21:23:44 <aloo_shu>	sometimes adding applets is done with a + sign, sometimes you can drag and drop them onto a panel (once you are in a list of applets)
+Dec 09 21:24:26 <remote>	what DE are you running kevin?
+Dec 09 21:25:45 *	dorp323 (~dorp323@SpotChat-6n8.0uj.162.78.IP) has joined
+Dec 09 21:25:46 *	user__ has quit (Connection closed)
+Dec 09 21:26:26 *	axslingr (~axslingr@SpotChat-qj2.5s3.14.67.IP) has joined
+Dec 09 21:26:45 *	linux (~linux@SpotChat-e74otj.anteldata.net.uy) has joined
+Dec 09 21:27:26 *	xmetal (~xmetal@SpotChat-cqb7nu.fl.comcast.net) has joined
+Dec 09 21:27:27 *	moritz_ (~moritz@SpotChat-iaehhg.2lf5.rgld.810d.2a02.IP) has joined
+Dec 09 21:27:52 *	dorp323 has quit (Quit: Leaving)
+Dec 09 21:28:06 *	dorp323 (~dorp323@SpotChat-6n8.0uj.162.78.IP) has joined
+Dec 09 21:28:18 <sweetstarr69_web>	I have tried to set google as a default search engine for chromium but this browser just wont let me no matter what the help pages say. Why is the browser fighting me so much?
+Dec 09 21:28:25 *	linux has quit (Quit: Leaving)
+Dec 09 21:28:40 <dorp323>	hello
+Dec 09 21:29:14 *	montajniki (~montajniki@SpotChat-h2q.mm4.135.91.IP) has joined
+Dec 09 21:30:01 *	montajniki has quit (Quit: Leaving)
+Dec 09 21:30:36 *	enyc meows
+Dec 09 21:31:40 *	axslingr has quit (Quit: Leaving)
+Dec 09 21:32:02 *	kevin has quit (Quit: Leaving)
+Dec 09 21:32:26 *	hades (~hades@SpotChat-ams.kpu.88.223.IP) has joined
+Dec 09 21:32:29 <dorp323>	ı need help
+Dec 09 21:32:36 *	aloo_shu has quit (Quit: I shall be with you tomorrow, fresh like the morning dew)
+Dec 09 21:32:58 <varun>	dorp323: okay whats the problem?
+Dec 09 21:33:40 *	hades has quit (Quit: Leaving)
+Dec 09 21:34:43 *	two_dogs has quit (Connection closed)
+Dec 09 21:34:58 <dorp323>	ı cant run the tor application
+Dec 09 21:36:37 *	gvsa123 (~gvsa123456@SpotChat-2jetdc.abhsia.telus.net) has joined
+Dec 09 21:37:07 *	smutna has quit (Connection closed)
+Dec 09 21:38:23 *	Dolu has quit (Ping timeout: 121 seconds)
+Dec 09 21:39:23 *	mint (~mint@SpotChat-6utc4u.r4pl.pat8.8600.2605.IP) has joined
+Dec 09 21:39:26 *	rotoplop has quit (Ping timeout: 121 seconds)
+Dec 09 21:39:35 *	ageis (~kevin@SpotChat-4gj.b39.35.161.IP) has joined
+Dec 09 21:39:44 *	sweetstarr has quit (Quit: Leaving)
+Dec 09 21:39:53 *	mint is now known as Guest2615
+Dec 09 21:40:35 *	sapusr (~sapusr@SpotChat-oc8.jbn.5.114.IP) has joined
+Dec 09 21:40:36 *	sapusr has quit (Quit: Leaving)
+Dec 09 21:41:21 *	khoren (~khoren@SpotChat-vvd.2sf.42.212.IP) has joined
+Dec 09 21:43:08 *	sweetstarr69_web has quit (Quit: http://www.mibbit.com ajax IRC Client)
+Dec 09 21:46:06 *	alexferreira (~alexferreir@SpotChat-ojo.a4h.37.177.IP) has joined
+Dec 09 21:46:07 *	alexferreira has quit (Quit: Leaving)
+Dec 09 21:46:40 *	montajniki (~montajniki@SpotChat-h2q.mm4.135.91.IP) has joined
+Dec 09 21:46:46 *	mint (~mint@SpotChat-796k5u.lmnb.n3m7.0f41.2a00.IP) has joined
+Dec 09 21:46:50 *	montajniki has quit (Quit: Leaving)
+Dec 09 21:46:52 <mint>	hi
+Dec 09 21:47:16 *	mint is now known as Guest13
+Dec 09 21:48:38 *	eholmes (~eholmes@SpotChat-re3.3hv.13.198.IP) has joined
+Dec 09 21:50:03 <Guest13>	how create server?
+Dec 09 21:50:37 <dorp323>	ı dont know ı need to tor server ıd
+Dec 09 21:52:37 *	pl_014 has quit (Ping timeout: 121 seconds)
+Dec 09 21:52:44 *	vickywicaks (~vickywicaks@SpotChat-lq3.2qf.163.125.IP) has joined
+Dec 09 21:52:59 *	vickywicaks has quit (Quit: Leaving)
+Dec 09 21:53:39 *	Guest3834 (~AllredA@SpotChat-422f66.tupp.8012.1702.2600.IP) has joined
+Dec 09 21:54:42 *	oscar (~oscar@SpotChat-tuh.ggh.19.47.IP) has joined
+Dec 09 21:54:59 <user>	sweetstarr69_web: did you configured this? chrome://settings/searchEngines
+Dec 09 21:55:16 *	Guest2615 has quit (Quit: Leaving)
+Dec 09 21:57:21 *	peetbog (~peetbog@linuxmint/team/peetbog) has joined
+Dec 09 21:57:21 *	ChanServ gives channel operator status to peetbog
+Dec 09 21:59:04 *	dorp323 has quit (Quit: Leaving)
+Dec 09 21:59:27 *	smilingcadaver (~smilingcada@SpotChat-puhl4q.rt63.33k4.fb90.2607.IP) has joined
+Dec 09 22:02:02 *	qodisu (~qodisu@SpotChat-16m.pn7.166.125.IP) has joined
+Dec 09 22:03:17 <qodisu>	pa
+Dec 09 22:03:47 *	ageis has quit (Ping timeout: 121 seconds)
+Dec 09 22:04:15 *	qodisu has quit (Quit: Leaving)
+Dec 09 22:06:02 *	larry (~larry@SpotChat-99dehl.res.spectrum.com) has joined
+Dec 09 22:06:04 *	Guest13 has quit (Quit: Leaving)
+Dec 09 22:06:23 *	larry_ (~larry@SpotChat-99dehl.res.spectrum.com) has joined
+Dec 09 22:06:28 *	larry_ has quit (Connection closed)
+**** ENDING LOGGING AT Wed Dec  9 22:07:06 2020
+
+**** BEGIN LOGGING AT Tue Dec 15 17:37:12 2020
+
+Dec 15 17:37:12 *	Now talking on #linuxmint-help
+Dec 15 17:37:12 *	Topic for #linuxmint-help is: Official Linux Mint Support Channel |​ All Linux Mint support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+Dec 15 17:37:12 *	Topic for #linuxmint-help set by nameless!~pikiwedia@linuxmint/team/pikiwedia (Thu May 30 10:23:17 2019)
+Dec 15 17:37:13 -ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+Dec 15 17:38:07 *	Amidala (~amidala@SpotChat-ttio68.abo.wanadoo.fr) has joined
+Dec 15 17:38:19 *	sandman192__ has quit (Connection closed)
+Dec 15 17:38:37 *	sandman192__ (~Sandman192@SpotChat-0ven04.qhae.d26a.0306.2602.IP) has joined
+Dec 15 17:39:23 *	Amidala has quit (Quit: Leaving)
+**** ENDING LOGGING AT Tue Dec 15 17:39:32 2020
+

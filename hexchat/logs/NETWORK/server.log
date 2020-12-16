@@ -1,0 +1,23 @@
+**** BEGIN LOGGING AT Wed Dec  9 21:15:46 2020
+
+Dec 09 21:15:46 *	Looking up chat.freenode.net
+Dec 09 21:15:46 *	Connecting to chat.freenode.net (2001:5a0:40:50:66:110:9:37:6697)
+Dec 09 21:15:47 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 09 21:15:47 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 09 21:15:47 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 09 21:15:47 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 09 21:15:47 *	* Subject: /CN=egan.freenode.net
+Dec 09 21:15:47 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 09 21:15:47 *	* Certification info:
+Dec 09 21:15:47 *	  Subject:
+Dec 09 21:15:47 *	    CN=egan.freenode.net
+Dec 09 21:15:47 *	  Issuer:
+Dec 09 21:15:47 *	    C=US
+Dec 09 21:15:47 *	    O=Let's Encrypt
+Dec 09 21:15:47 *	    CN=Let's Encrypt Authority X3
+Dec 09 21:15:47 *	  Public key algorithm: rsaEncryption (4096 bits)
+Dec 09 21:15:47 *	  Sign algorithm sha256WithRSAEncryption
+Dec 09 21:15:47 *	  Valid since Oct 12 06:44:15 2020 GM to Jan 10 06:44:15 2021 GM
+Dec 09 21:15:47 *	* Cipher info:
+Dec 09 21:15:47 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 09 21:15:47 *	Connected. Now logging in.

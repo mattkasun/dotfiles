@@ -1,0 +1,81 @@
+**** BEGIN LOGGING AT Wed Dec  9 21:06:18 2020
+
+Dec 09 21:06:18 *	MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=SpotChat NICKLEN=31 OVERRIDE PREFIX=(Yqaohv)!~&@%+ REMOVE SECURELIST :are supported by this server
+Dec 09 21:06:18 *	SSL=64.57.93.14:6697 STARTTLS STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+Dec 09 21:06:18 *	997AAPSBU :your unique ID
+Dec 09 21:06:18 *	medusa.us.SpotChat.org message of the day
+Dec 09 21:06:18 *	-               _____             __       __          __
+Dec 09 21:06:18 *	-              / ___/____  ____  / /______/ /_  ____ _/ /_
+Dec 09 21:06:18 *	-              \__ \/ __ \/ __ \/ __/ ___/ __ \/ __ `/ __/
+Dec 09 21:06:18 *	-             ___/ / /_/ / /_/ / /_/ /__/ / / / /_/ / /_
+Dec 09 21:06:18 *	-            /____/ .___/\____/\__/\___/_/ /_/\__,_/\__/
+Dec 09 21:06:18 *	-                /__/
+Dec 09 21:06:18 *	-                     http://spotchat.org/imprint/
+Dec 09 21:06:18 *	-                     http://spotchat.org/servers/
+Dec 09 21:06:18 *	- 
+Dec 09 21:06:18 *	- =============================================================================
+Dec 09 21:06:18 *	-                       RULES (FOR THOSE WITHOUT COMMON SENSE)
+Dec 09 21:06:18 *	- =============================================================================
+Dec 09 21:06:18 *	- : On connecting to this Network you are agreeing to be scanned for open
+Dec 09 21:06:18 *	-      Proxies. Please disregard any messages from Monitoring or Security
+Dec 09 21:06:18 *	-      software about this matter, it helps us keep our network a safe place.
+Dec 09 21:06:18 *	- : Bots are allowed if they cause no harm to other Users on this Network or 
+Dec 09 21:06:18 *	-      annoy them in any way. Bots disturbing the normal flow of this Network
+Dec 09 21:06:18 *	-      are not allowed.
+Dec 09 21:06:18 *	- : Bots are to be marked with the usermode +B ( /MODE nick +B )
+Dec 09 21:06:18 *	- : 3 connections per IP are allowed on this IRC Network. Exceptions can be 
+Dec 09 21:06:18 *	-      arranged in consultation with the Operators. 
+Dec 09 21:06:18 *	- : NOT allowed: hacking of any kind, warez, XDCC, dissemination of pornographic content,
+Dec 09 21:06:18 *	-      overexposure of violence, trolling and flooding/spamming.
+Dec 09 21:06:18 *	- : Listen to the IRC Operators and respect their decisions. Decisions made
+Dec 09 21:06:18 *	-      by the IRC Operators are final.
+Dec 09 21:06:18 *	- 
+Dec 09 21:06:18 *	- The Operators of this Network reserve the right to block Channels or Users 
+Dec 09 21:06:18 *	- who breach these rules and to change the above rules without prior notice.
+Dec 09 21:06:18 *	- 
+Dec 09 21:06:18 *	- Anyone who operates computer sabotage against us make themselves liable 
+Dec 09 21:06:18 *	- to prosecution under Section 303b of the German Criminal Code and we will 
+Dec 09 21:06:18 *	- press charges against them.
+Dec 09 21:06:18 *	- 
+Dec 09 21:06:18 *	- =============================================================================
+Dec 09 21:06:18 *	-                       SOME IMPORTANT COMMANDS (NO SHORTCUTS)
+Dec 09 21:06:18 *	- =============================================================================
+Dec 09 21:06:18 *	- vHosts:
+Dec 09 21:06:18 *	-       /MSG HostServ HELP REQUEST
+Dec 09 21:06:18 *	- Nicks:
+Dec 09 21:06:18 *	-       /MSG NickServ HELP REGISTER
+Dec 09 21:06:18 *	-       /MSG NickServ HELP SET
+Dec 09 21:06:18 *	- Channels:
+Dec 09 21:06:18 *	-       /MSG ChanServ HELP REGISTER
+Dec 09 21:06:18 *	-       /MSG ChanServ HELP FLAGS
+Dec 09 21:06:18 *	- 
+Dec 09 21:06:18 *	- =============================================================================
+Dec 09 21:06:18 *	-            SPOTCHAT ADMINISTRATION: See http://spotchat.org/staff/
+Dec 09 21:06:18 *	- =============================================================================
+Dec 09 21:06:18 *	- In case a User is masquerading as an IRC-Op and no Operator can be found
+Dec 09 21:06:18 *	-    please immediately contact Network management!
+Dec 09 21:06:18 *	- 
+Dec 09 21:06:18 *	- Contact Us via (in order of fastest service to slowest): 
+Dec 09 21:06:18 *	- 1) The #SpotChat Channel
+Dec 09 21:06:18 *	- 2) Email us at opers@spotchat.org
+Dec 09 21:06:18 *	- 3) http://spotchat.org/contact/
+Dec 09 21:06:18 *	- =============================================================================
+Dec 09 21:06:18 *	End of message of the day.
+Dec 09 21:06:18 *	There are 12 users and 333 invisible on 7 servers
+Dec 09 21:06:18 *	5 :operator(s) online
+Dec 09 21:06:18 *	76 :channels formed
+Dec 09 21:06:18 *	I have 117 clients and 1 servers
+Dec 09 21:06:18 *	Current Local Users: 117  Max: 202
+Dec 09 21:06:18 *	Current Global Users: 345  Max: 413
+Dec 09 21:06:18 *	SpotChat-8ibh58.v8h5.tefs.f2c0.2607.IP :is now your displayed host
+Dec 09 21:06:18 *	mkasun sets mode +i on mkasun
+Dec 09 21:06:18 *	mkasun sets mode +x on mkasun
+Dec 09 21:06:18 *	mkasun sets mode +R on mkasun
+Dec 09 21:06:18 -InfoServ-	*** Message(s) of the Day ***
+Dec 09 21:06:18 -InfoServ-	[New connect modes] Notice from r00t, posted 16:57 on 09/05/2018:
+Dec 09 21:06:18 -InfoServ-	We now set usermode +R by default when you connect to SpotChat. This means PMs from unregistered users are blocked. This is a good time to register with SpotChat services if you haven't already. See /msg NickServ help REGISTER   for help with that, or go to the #SpotChat channel.
+Dec 09 21:06:18 -InfoServ-	[SASL Authentication mechanisms] Notice from r00t, posted 01:24 on 03/05/2015:
+Dec 09 21:06:18 -InfoServ-	DH-BLOWFISH and DH-AES is no longer supported. If you are using any of these, please switch to either PLAIN or ECDSA-NIST256p-CHALLENGE
+Dec 09 21:06:18 -InfoServ-	*** End of Message(s) of the Day ***
+**** ENDING LOGGING AT Wed Dec  9 21:11:56 2020
+

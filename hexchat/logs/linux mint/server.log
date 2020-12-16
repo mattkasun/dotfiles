@@ -1,0 +1,35 @@
+**** BEGIN LOGGING AT Wed Dec  9 21:06:12 2020
+
+Dec 09 21:06:12 *	Looking up irc.spotchat.org
+**** BEGIN LOGGING AT Wed Dec  9 21:12:06 2020
+
+Dec 09 21:12:06 *	Looking up irc.spotchat.org
+Dec 09 21:12:06 *	Connecting to irc.spotchat.org (2607:fe90:4:b::11:6667)
+Dec 09 21:12:06 *	Connected. Now logging in.
+Dec 09 21:12:06 *	*** Looking up your hostname...
+Dec 09 21:12:06 *	*** Looking up your ident...
+Dec 09 21:12:06 *	*** Could not resolve your hostname: Domain name not found; using your IP address (2607:f2c0:9578:700:6905:9020:4881:90fa) instead.
+Dec 09 21:12:06 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Dec 09 21:12:06 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Dec 09 21:12:06 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Dec 09 21:12:11 *	*** Ident request timed out.
+Dec 09 21:12:11 *	*** Could not find your ident, using ~DlrowOlleh instead.
+Dec 09 21:12:11 *	Welcome to SpotChat!
+**** ENDING LOGGING AT Wed Dec  9 21:12:11 2020
+
+**** BEGIN LOGGING AT Tue Dec 15 17:37:03 2020
+
+Dec 15 17:37:03 *	Looking up irc.spotchat.org
+Dec 15 17:37:04 *	Connecting to irc.spotchat.org (2607:fe90:4:b::11:6667)
+Dec 15 17:37:05 *	Connected. Now logging in.
+Dec 15 17:37:05 *	*** Looking up your hostname...
+Dec 15 17:37:05 *	*** Looking up your ident...
+Dec 15 17:37:06 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Dec 15 17:37:06 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Dec 15 17:37:06 *	*** Could not resolve your hostname: Domain name not found; using your IP address (2607:f2c0:94cf:e100:4058:f9f:3200:958b) instead.
+Dec 15 17:37:07 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Dec 15 17:37:10 *	*** Ident request timed out.
+Dec 15 17:37:10 *	*** Could not find your ident, using ~DlrowOlleh instead.
+Dec 15 17:37:10 *	Welcome to SpotChat!
+**** ENDING LOGGING AT Tue Dec 15 17:37:10 2020
+
