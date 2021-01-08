@@ -1,0 +1,199 @@
+[2020-12-16 16:01:22.826] [info] App starting...
+[2020-12-16 16:01:23.336] [info] Checking for update
+[2020-12-16 16:01:23.521] [info] Generated new staging user ID: 65f8614a-d37f-5a0e-9fd7-d531383eff16
+[2020-12-16 16:01:31.380] [error] Error: HttpError: 404 Not Found
+"method: GET url: https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.4.0-beta3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Wed, 16 Dec 2020 21:01:31 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "status": "404 Not Found",
+  "vary": "X-PJAX, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "1; mode=block",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "set-cookie": [
+    "_gh_sess=JsIE8Zx2M1rH%2BCumrzuCFC4Y40zcs9hrdmazFWqzDlkqNpis0eFHpWeOZv%2BEIyo7WNl42KEbnb5DxtHew8i6MsPG0VQO%2BDYIuyPvtNyQD0VSqZQnCFnHvFTkbgeAP1QiUc1WW1%2BTTYzO60USkoIqxLzr74sfuPY6ukKx9H5G1TnyWCkgkj6TvFC%2BBiNWx10bMkwrcwzR9a31khYj6U6P1r4jo55NRgjCDiB3rjsEhPn%2B3pPYwlZVIKLNl%2BDBXyK4mztifRERB%2F8ZDzYlDT%2FvEg%3D%3D--xochG2nhcNv5nLQY--9GxUi93%2FauCFIq3w%2FSNnkA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.1941969168.1608152491; Path=/; Domain=github.com; Expires=Thu, 16 Dec 2021 21:01:31 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Thu, 16 Dec 2021 21:01:31 GMT; HttpOnly; Secure; SameSite=Lax"
+  ],
+  "content-length": "40",
+  "x-github-request-id": "D718:3ECA:11DC:1FA9:5FDA75A9"
+}
+    at createHttpError (/tmp/.mount_MQTT-EQOWvpe/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_MQTT-EQOWvpe/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_MQTT-EQOWvpe/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+[2020-12-16 16:24:41.188] [info] App starting...
+[2020-12-16 16:24:41.648] [info] Checking for update
+[2020-12-16 16:24:49.755] [error] Error: HttpError: 404 Not Found
+"method: GET url: https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.4.0-beta3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Wed, 16 Dec 2020 21:24:49 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "status": "404 Not Found",
+  "vary": "X-PJAX, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "1; mode=block",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "set-cookie": [
+    "_gh_sess=562vb0nuHDBmDshFOVEyQB%2FNAt83Z4YefLde0Rm3Vo9caflgJIepixOguF8KVT5VDWmQ0Hg036JpKMiS5LONarSVrAUU%2BaHPTYQq1OOfbal3akTVTW6q8zfY4Aq%2B2RKmuoGrDEmpqChW7Nd9D1olsr0sMWFQFjjvWg4%2FymwhRbrLQgnl3IQ8100VlgUYRM7YCJlZ4UhL4Qa4rRcMDhxlCVE9PzKhGUsI0sr6JcUmNKf10stgz6fuudd1xQcv8Bq0XNgFFy9pOsg%2BvoJbx1KHWA%3D%3D--gu1vJy45LcfWGe4z--YZfXuKvolMK7WyhECMgVQA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.912060174.1608153889; Path=/; Domain=github.com; Expires=Thu, 16 Dec 2021 21:24:49 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Thu, 16 Dec 2021 21:24:49 GMT; HttpOnly; Secure; SameSite=Lax"
+  ],
+  "content-length": "40",
+  "x-github-request-id": "BFD0:317A:2DB54:41A7F:5FDA7B1F"
+}
+    at createHttpError (/tmp/.mount_MQTT-E3FAUko/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_MQTT-E3FAUko/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_MQTT-E3FAUko/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+[2020-12-17 16:16:43.135] [info] App starting...
+[2020-12-17 16:16:43.582] [info] Checking for update
+[2020-12-17 16:16:44.270] [error] Error: HttpError: 404 Not Found
+"method: GET url: https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.4.0-beta3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Thu, 17 Dec 2020 21:16:44 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "status": "404 Not Found",
+  "vary": "X-PJAX, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "1; mode=block",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "set-cookie": [
+    "_gh_sess=x%2Fv%2BsKi3rySWvQgz3Szd2AjjqtivYoDb8BDFCzM9Ih5z4CxouzMnFevoZuNILMcsoDlY2n2%2BR82IsYdE3AS%2B6Vlm4c8vBNHhT6MjUa%2FsNPqGTlCcs1GHgb7rKVH1miHVVsO98RF6vFtDfY2YVHbnsbKEnmF%2FyCK67QpD2%2BKHIFBHz45eTiIm%2FCtKp5UscFkItc6kHRDc%2BsvHCGs4XruOCtpstrDPRayU8Gshcd0f7l%2Foi5HUBHlawlgqebzcJJs8ZnP2GUYLYOzOXDYyX1VNpA%3D%3D--uNAyQSM%2BxWSicHgb--ThtH1klmTg0N9RrEWLqNtw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.1373801985.1608239804; Path=/; Domain=github.com; Expires=Fri, 17 Dec 2021 21:16:44 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Fri, 17 Dec 2021 21:16:44 GMT; HttpOnly; Secure; SameSite=Lax"
+  ],
+  "content-length": "40",
+  "x-github-request-id": "E2BA:3D33:36BB69:5751C1:5FDBCABC"
+}
+    at createHttpError (/tmp/.mount_MQTT-EoBMdwD/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_MQTT-EoBMdwD/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_MQTT-EoBMdwD/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+[2020-12-19 11:28:34.227] [info] App starting...
+[2020-12-19 11:28:34.633] [info] Checking for update
+[2020-12-19 11:28:35.397] [error] Error: HttpError: 404 Not Found
+"method: GET url: https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.4.0-beta3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Sat, 19 Dec 2020 16:28:35 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "status": "404 Not Found",
+  "vary": "X-PJAX, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "1; mode=block",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "set-cookie": [
+    "_gh_sess=kP%2BcTCRGSKep%2BMnR6reiJje7fL%2BJDrb3PwsVEqKWS4RuTogtPQPlHVoPvk8dfq4G9lzWcdOTTQ5ovjhHL5BxwKCoL4GZ5GkzTziH3s58M5Q7gnW%2FgyP1x65r9oYVIP7s4er88XTCotWKrgsJc1RDXRZNlg9%2B%2FBeAK6fnYe8hBDsO7BlG%2FdT1nczSNCpCcKJgsvza7BZbe6g%2BEk4e9N6teOTHV6ihaLYUHUN0KcY%2BI42BKONTZdtMOI1VuayxWwLlhVsyT5RRrvF3bt%2F2p%2BQYBQ%3D%3D--1Q44fSXDv6qyyJ%2Fw--7W88Zdffvr4Pd6FmSR0seA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.1001044894.1608395315; Path=/; Domain=github.com; Expires=Sun, 19 Dec 2021 16:28:35 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Sun, 19 Dec 2021 16:28:35 GMT; HttpOnly; Secure; SameSite=Lax"
+  ],
+  "content-length": "40",
+  "x-github-request-id": "D7F8:17CB:17F878A:224B5A4:5FDE2A33"
+}
+    at createHttpError (/tmp/.mount_MQTT-EnD9Cov/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_MQTT-EnD9Cov/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_MQTT-EnD9Cov/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+[2020-12-29 11:31:48.263] [info] App starting...
+[2020-12-29 11:31:48.688] [info] Checking for update
+[2020-12-29 11:31:50.149] [error] Error: HttpError: 404 Not Found
+"method: GET url: https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.4.0-beta3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Tue, 29 Dec 2020 16:31:49 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "status": "404 Not Found",
+  "vary": "X-PJAX, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "1; mode=block",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "set-cookie": [
+    "_gh_sess=M9Owopu6HTR1Jdx6BDBNG7TJNrgbM3QytGAlctPoGhVMe3ColtN8fr8XI2knxyN8UC2cEQYZvB%2BAqhgggyrOmXM7O%2FJ%2BDqdZHHMGkS81o9DLkOPquzknrQryjfXvKDlJ9UE5MLCpdcWEtDSZHaq2poDVgQ%2FXefmTyarR%2BQgHzKOmAcNpdYIX%2BCpVDB0H9spWBcWylObGSeP48tb5ZCUFe9N%2F2MjJZyyPLyXviGRNA0c%2Fjt9AROcKpCIjP9kSxpu9cs3x0%2BYrCHr3MHSgRvH3MA%3D%3D--XsXSv8cijlS9turz--h4aZtmTgccnECT9RxekFDA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.2143448756.1609259509; Path=/; Domain=github.com; Expires=Wed, 29 Dec 2021 16:31:49 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Wed, 29 Dec 2021 16:31:49 GMT; HttpOnly; Secure; SameSite=Lax"
+  ],
+  "content-length": "40",
+  "x-github-request-id": "CE3E:335A:A60BD6:132768F:5FEB59F5"
+}
+    at createHttpError (/tmp/.mount_MQTT-EVmu84V/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_MQTT-EVmu84V/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_MQTT-EVmu84V/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+[2021-01-04 10:03:49.758] [info] App starting...
+[2021-01-04 10:03:50.225] [info] Checking for update
+[2021-01-04 10:03:50.952] [error] Error: HttpError: 404 Not Found
+"method: GET url: https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.4.0-beta3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Mon, 04 Jan 2021 15:03:50 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "status": "404 Not Found",
+  "vary": "X-PJAX, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "1; mode=block",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "set-cookie": [
+    "_gh_sess=KyQNn8P8ZMVbTv8GoWqotys2iGN4qxLwWXnHfWVWcdMG0NOmNLwzqRCQYOYc%2F4ooRnz%2BlnSzeptcB1PpLkcz7%2F9Ct2y3Nw%2F0AluOe6PVL5KJU0qXhXMXWaEDyzXRXlMmL%2FOGvvSXqrdcqJ4TmW92CauKbKqFtr6wF1xE%2FigL49Ey9oYwwMsyzOLY4FiUk0GC0z77CmiYBkZjnbRQd1eRl6Jab%2BEXbjmasvrftZij3LAxnCoaMtjQa%2BmBtZJzNveidWtSaLlotvjNErLALSa%2Fqw%3D%3D--uwC%2Fjgkp6PkG8fJ2--9ZPT5HxYXNxE1%2FZIXogeCw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.2037215847.1609772630; Path=/; Domain=github.com; Expires=Tue, 04 Jan 2022 15:03:50 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Tue, 04 Jan 2022 15:03:50 GMT; HttpOnly; Secure; SameSite=Lax"
+  ],
+  "content-length": "40",
+  "x-github-request-id": "BC46:0AA4:E53F86:184F591:5FF32E56"
+}
+    at createHttpError (/tmp/.mount_MQTT-EvI0Yns/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_MQTT-EvI0Yns/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_MQTT-EvI0Yns/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
