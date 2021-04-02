@@ -14,6 +14,7 @@ set $mod Mod1
 #startup
 #exec --no-startup-id /usr/bin/google-drive-ocamlfuse /home/mkasun/google
 exec --no-startup-id ~/.screenlayout/dock.sh
+exec --no-startup-id /usr/bin/dropbox start
 exec --no-startup-id /usr/bin/nitrogen --restore
 exec --no-startup-id /usr/bin/picom -i .8
 exec --no-startup-id /usr/bin/xfce4-panel --disable-wm-check
@@ -50,6 +51,14 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
+# Always Float
+for_window [class="Gnucash"] floating enable
+for_window [class="Gnome-calculator"] floating enable
+for_window [class="About"] floating enable
+for_window [class="Claws-mail"] floating enable
+for_window [class="Mailspring"] floating enable
+for_window [window_type="_NET_WM_WINDOW_TYPE_DOCK"] floating enable
+for_window [class="vlc"] floating enable]
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal

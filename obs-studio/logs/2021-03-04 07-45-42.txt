@@ -1,0 +1,266 @@
+07:45:42 AM.280: CPU Name: Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
+07:45:42 AM.280: CPU Speed: 2277.939MHz
+07:45:42 AM.281: Physical Cores: 2, Logical Cores: 4
+07:45:42 AM.281: Physical Memory: 7866MB Total, 1340MB Free
+07:45:42 AM.281: Kernel Version: Linux 5.4.0-65-generic
+07:45:42 AM.281: Distribution: "Linux Mint" "20.1"
+07:45:42 AM.281: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+07:45:42 AM.282: Portable mode: false
+07:45:42 AM.371: OBS 25.0.3+dfsg1-2 (linux)
+07:45:42 AM.371: ---------------------------------
+07:45:42 AM.371: ---------------------------------
+07:45:42 AM.371: audio settings reset:
+07:45:42 AM.371: 	samples per sec: 44100
+07:45:42 AM.371: 	speakers:        2
+07:45:42 AM.382: ---------------------------------
+07:45:42 AM.382: Initializing OpenGL...
+07:45:42 AM.428: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 4400 (HSW GT2)
+07:45:42 AM.428: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 20.2.6, shading language 4.50
+07:45:42 AM.445: ---------------------------------
+07:45:42 AM.445: video settings reset:
+07:45:42 AM.445: 	base resolution:   1680x1050
+07:45:42 AM.445: 	output resolution: 840x524
+07:45:42 AM.445: 	downscale filter:  Bicubic
+07:45:42 AM.445: 	fps:               30/1
+07:45:42 AM.445: 	format:            NV12
+07:45:42 AM.445: 	YUV mode:          601/Partial
+07:45:42 AM.445: NV12 texture support not available
+07:45:42 AM.450: Audio monitoring device:
+07:45:42 AM.450: 	name: Default
+07:45:42 AM.450: 	id: default
+07:45:42 AM.450: ---------------------------------
+07:45:42 AM.452: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+07:45:42 AM.552: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+07:45:42 AM.552: No blackmagic support
+07:45:42 AM.589: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+07:45:42 AM.589: 
+07:45:42 AM.589: FFMPEG VAAPI supported
+07:45:42 AM.606: VLC found, VLC video source enabled
+07:45:42 AM.607: ---------------------------------
+07:45:42 AM.607:   Loaded Modules:
+07:45:42 AM.607:     droidcam-obs.so
+07:45:42 AM.607:     vlc-video.so
+07:45:42 AM.607:     text-freetype2.so
+07:45:42 AM.607:     rtmp-services.so
+07:45:42 AM.607:     obs-x264.so
+07:45:42 AM.607:     obs-transitions.so
+07:45:42 AM.607:     obs-outputs.so
+07:45:42 AM.607:     obs-filters.so
+07:45:42 AM.607:     obs-ffmpeg.so
+07:45:42 AM.607:     linux-v4l2.so
+07:45:42 AM.607:     linux-pulseaudio.so
+07:45:42 AM.607:     linux-jack.so
+07:45:42 AM.607:     linux-decklink.so
+07:45:42 AM.607:     linux-capture.so
+07:45:42 AM.607:     linux-alsa.so
+07:45:42 AM.607:     image-source.so
+07:45:42 AM.607:     frontend-tools.so
+07:45:42 AM.607:     decklink-ouput-ui.so
+07:45:42 AM.607: ---------------------------------
+07:45:42 AM.607: ==== Startup complete ===============================================
+07:45:42 AM.608: Service '' not found
+07:45:42 AM.610: All scene data cleared
+07:45:42 AM.610: ------------------------------------------------
+07:45:42 AM.612: pulse-input: Server name: 'pulseaudio 13.99.1'
+07:45:42 AM.613: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+07:45:42 AM.613: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+07:45:42 AM.613: pulse-input: Server name: 'pulseaudio 13.99.1'
+07:45:42 AM.613: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+07:45:42 AM.613: pulse-input: Started recording from 'alsa_input.usb-046d_0825_A9843510-02.mono-fallback'
+07:45:42 AM.614: v4l2-input: Start capture from /dev/video0
+07:45:42 AM.615: v4l2-input: Input: 0
+07:45:42 AM.670: v4l2-input: Resolution: 960x720
+07:45:42 AM.670: v4l2-input: Pixelformat: VYUY
+07:45:42 AM.670: v4l2-input: Linesize: 1920 Bytes
+07:45:42 AM.670: v4l2-input: Framerate: 10.00 fps
+07:45:42 AM.671: [DroidCamOBS] create(source=0x5618a692d0c0) r120
+07:45:42 AM.688: [DroidCamOBS] Error loading usbmuxd dll, iOS USB support n/a
+07:45:42 AM.688: [DroidCamOBS] activated=1, deactivateWNS=0, is_showing=0, enable_audio=1
+07:45:42 AM.688: [DroidCamOBS] video_format=jpg video_resolution=640x480
+07:45:42 AM.688: [DroidCamOBS] device_info.id=dev_id_wifi device_info.ip=192.168.86.210 device_info.port=4747 device_info.type=1
+07:45:42 AM.688: [DroidCamOBS] video_thread start
+07:45:42 AM.688: [DroidCamOBS] audio_thread start
+07:45:42 AM.689: [DroidCamOBS] video_decode_thread start
+07:45:42 AM.689: Switched to scene 'Scene 2'
+07:45:42 AM.689: ------------------------------------------------
+07:45:42 AM.689: Loaded scenes:
+07:45:42 AM.690: - scene 'Scene':
+07:45:42 AM.690:     - source: 'DroidCam OBS' (droidcam_obs)
+07:45:42 AM.690:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+07:45:42 AM.690: - scene 'Scene 2':
+07:45:42 AM.690:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+07:45:42 AM.690: ------------------------------------------------
+07:45:43 AM.227: Switched to Preview/Program mode
+07:45:43 AM.227: ------------------------------------------------
+07:46:02 AM.005: User added source 'DroidCam OBS' (droidcam_obs) to scene 'Scene 2'
+07:46:02 AM.027: [DroidCamOBS] starting video via socket 42
+07:46:02 AM.027: [DroidCamOBS] create video decoder
+07:46:03 AM.034: [DroidCamOBS] starting audio via socket 43
+07:46:03 AM.034: [DroidCamOBS] create audio decoder
+07:46:03 AM.315: [DroidCamOBS] @decoder alloc: size=45957
+07:46:03 AM.326: [DroidCamOBS] @decoder alloc: size=45389
+07:46:03 AM.327: [DroidCamOBS] @decoder alloc: size=47572
+07:46:03 AM.328: [DroidCamOBS] stream is 640x480 subsamp 2 colorspace 1
+07:46:03 AM.328: 
+07:46:03 AM.444: [DroidCamOBS] @decoder alloc: size=373
+07:46:03 AM.447: [DroidCamOBS] sr_idx=4 [0x12 0x 8]
+07:46:03 AM.447: [DroidCamOBS] audio sample_rate=44100
+07:46:03 AM.475: adding 23 milliseconds of audio buffering, total audio buffering is now 23 milliseconds (source: DroidCam OBS)
+07:46:03 AM.475: 
+07:48:37 AM.627: [DroidCamOBS] plugin_properties: activated=1 (actual=1)
+07:48:43 AM.060: [DroidCamOBS] closing active audio socket 43
+07:48:43 AM.060: [DroidCamOBS] release audio_decoder
+07:48:43 AM.061: [DroidCamOBS] ~decoder alloc_count=0
+07:48:43 AM.064: [DroidCamOBS] closing active video socket 42
+07:48:43 AM.064: [DroidCamOBS] waiting for decode thread: 2/3
+07:48:44 AM.064: [DroidCamOBS] release video_decoder
+07:48:44 AM.065: [DroidCamOBS] ~decoder alloc_count=0
+07:48:44 AM.866: [DroidCamOBS] device R52MA13X3RK is device
+07:48:46 AM.907: [DroidCamOBS] device R52MA13X3RK is device
+07:48:47 AM.650: [DroidCamOBS] device R52MA13X3RK is device
+07:48:47 AM.951: [DroidCamOBS] device R52MA13X3RK is device
+07:48:49 AM.342: [DroidCamOBS] device R52MA13X3RK is device
+07:48:49 AM.930: [DroidCamOBS] device R52MA13X3RK is device
+07:48:50 AM.161: [DroidCamOBS] device R52MA13X3RK is device
+07:48:51 AM.711: [DroidCamOBS] device R52MA13X3RK is device
+07:48:52 AM.078: [DroidCamOBS] device R52MA13X3RK is device
+07:48:53 AM.595: [DroidCamOBS] activated: id=dev_id_wifi type=1 ip=192.168.86.210 port=4747
+07:48:53 AM.595: [DroidCamOBS] video_format=1/jpg video_resolution=0/640x480
+07:48:53 AM.688: [DroidCamOBS] starting video via socket 42
+07:48:53 AM.688: [DroidCamOBS] create video decoder
+07:48:54 AM.415: [DroidCamOBS] @decoder alloc: size=41809
+07:48:54 AM.425: [DroidCamOBS] stream is 640x480 subsamp 2 colorspace 1
+07:48:54 AM.425: 
+07:48:54 AM.710: [DroidCamOBS] starting audio via socket 43
+07:48:54 AM.710: [DroidCamOBS] create audio decoder
+07:48:54 AM.846: [DroidCamOBS] @decoder alloc: size=44795
+07:48:54 AM.849: [DroidCamOBS] @decoder alloc: size=44461
+07:48:54 AM.879: [DroidCamOBS] @decoder alloc: size=373
+07:48:54 AM.879: [DroidCamOBS] sr_idx=4 [0x12 0x 8]
+07:48:54 AM.879: [DroidCamOBS] audio sample_rate=44100
+07:52:20 AM.372: xshm-input: Geometry 1680x1050 @ 1920,0
+07:52:20 AM.417: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene 2'
+07:52:44 AM.248: [DroidCamOBS] @decoder alloc: size=44602
+07:53:39 AM.497: xshm-input: Geometry 1680x1050 @ 1920,0
+07:54:56 AM.553: [DroidCamOBS] plugin_properties: activated=1 (actual=1)
+07:54:56 AM.554: [DroidCamOBS] device R52MA13X3RK is device
+07:55:01 AM.198: [DroidCamOBS] plugin_udpate: activated=1 (actual=1) audio=1 sync_av=0
+07:57:24 AM.064: Switched to scene 'Scene 2'
+07:57:24 AM.117: Switched to regular Preview mode
+07:57:24 AM.117: ------------------------------------------------
+07:57:27 AM.665: Switched to Preview/Program mode
+07:57:27 AM.665: ------------------------------------------------
+07:57:28 AM.663: Switched to scene 'Scene 2'
+07:57:28 AM.667: Switched to regular Preview mode
+07:57:28 AM.667: ------------------------------------------------
+07:58:09 AM.634: xshm-input: Geometry 1920x1080 @ 0,0
+08:00:51 AM.913: adding 23 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: DroidCam OBS)
+08:00:51 AM.913: 
+08:00:52 AM.111: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds (source: DroidCam OBS)
+08:00:52 AM.111: 
+08:01:09 AM.801: v4l2-input: /dev/video1 seems to not support video capture
+08:01:09 AM.805: v4l2-input: Found device 'UVC Camera (046d:0825)' at /dev/video0
+08:01:09 AM.809: v4l2-input: Found input 'Camera 1' (Index 0)
+08:01:09 AM.809: v4l2-controls: setting default for Power Line Frequency to 2
+08:01:09 AM.811: v4l2-controls: setting default for Exposure, Auto to 3
+08:01:09 AM.819: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+08:01:09 AM.821: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+08:01:09 AM.821: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+08:01:09 AM.821: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+08:01:09 AM.821: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+08:01:09 AM.821: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+08:01:09 AM.872: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+08:01:09 AM.874: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+08:01:09 AM.875: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+08:01:09 AM.875: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+08:01:09 AM.875: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+08:01:09 AM.875: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+08:01:13 AM.188: v4l2-input: /dev/video1 seems to not support video capture
+08:01:13 AM.191: v4l2-input: Found device 'UVC Camera (046d:0825)' at /dev/video0
+08:01:13 AM.196: v4l2-input: Found input 'Camera 1' (Index 0)
+08:01:13 AM.196: v4l2-controls: setting default for Power Line Frequency to 2
+08:01:13 AM.198: v4l2-controls: setting default for Exposure, Auto to 3
+08:01:13 AM.212: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+08:01:13 AM.214: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+08:01:13 AM.214: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+08:01:13 AM.214: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+08:01:13 AM.214: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+08:01:13 AM.214: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+08:01:13 AM.228: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+08:01:13 AM.236: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+08:01:13 AM.236: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+08:01:13 AM.236: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+08:01:13 AM.236: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+08:01:13 AM.236: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+08:01:20 AM.739: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene 2'
+08:01:37 AM.229: ==== Shutting down ==================================================
+08:01:37 AM.258: Switched to scene '(null)'
+08:01:37 AM.332: [DroidCamOBS] stopping
+08:01:37 AM.333: [DroidCamOBS] video_decode_thread end
+08:01:37 AM.344: [DroidCamOBS] video_thread end
+08:01:37 AM.345: [DroidCamOBS] audio_thread end
+08:01:37 AM.346: [DroidCamOBS] cleanup
+08:01:37 AM.346: [DroidCamOBS] ~decoder alloc_count=0
+08:01:37 AM.346: [DroidCamOBS] ~decoder alloc_count=0
+08:01:37 AM.367: All scene data cleared
+08:01:37 AM.368: ------------------------------------------------
+08:01:37 AM.368: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+08:01:37 AM.368: pulse-input: Got 205278 packets with 42102383 frames
+08:01:37 AM.368: pulse-input: Stopped recording from 'alsa_input.usb-046d_0825_A9843510-02.mono-fallback'
+08:01:37 AM.368: pulse-input: Got 95506 packets with 45825640 frames
+08:01:37 AM.410: v4l2-input: Stopped capture after 9439 frames
+08:01:37 AM.861: Freeing OBS context data
+08:01:37 AM.897: [Scripting] Total detached callbacks: 0
+08:01:37 AM.988: == Profiler Results =============================
+08:01:37 AM.989: run_program_init: 1103.41 ms
+08:01:37 AM.989:  ┣OBSApp::AppInit: 2.462 ms
+08:01:37 AM.989:  ┃ ┗OBSApp::InitLocale: 0.925 ms
+08:01:37 AM.989:  ┗OBSApp::OBSInit: 964.193 ms
+08:01:37 AM.989:    ┣obs_startup: 19.355 ms
+08:01:37 AM.989:    ┗OBSBasic::OBSInit: 856.06 ms
+08:01:37 AM.989:      ┣OBSBasic::InitBasicConfig: 0.084 ms
+08:01:37 AM.989:      ┣OBSBasic::ResetAudio: 0.157 ms
+08:01:37 AM.989:      ┣OBSBasic::ResetVideo: 78.545 ms
+08:01:37 AM.989:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+08:01:37 AM.989:      ┣OBSBasic::InitHotkeys: 0.039 ms
+08:01:37 AM.989:      ┣obs_load_all_modules: 157.232 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.621 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(frontend-tools.so): 85.558 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(image-source.so): 0.006 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(linux-alsa.so): 0.003 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(linux-capture.so): 0.276 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(linux-decklink.so): 0.197 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(linux-jack.so): 0.003 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(linux-v4l2.so): 0.002 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.422 ms
+08:01:37 AM.989:      ┃ ┃ ┗nvenc_check: 0.391 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(obs-filters.so): 0.034 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(obs-transitions.so): 0.013 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+08:01:37 AM.989:      ┃ ┣obs_init_module(rtmp-services.so): 1.195 ms
+08:01:37 AM.990:      ┃ ┣obs_init_module(text-freetype2.so): 0.015 ms
+08:01:37 AM.990:      ┃ ┣obs_init_module(vlc-video.so): 2.692 ms
+08:01:37 AM.990:      ┃ ┗obs_init_module(droidcam-obs.so): 0.009 ms
+08:01:37 AM.990:      ┣OBSBasic::ResetOutputs: 0.126 ms
+08:01:37 AM.990:      ┣OBSBasic::CreateHotkeys: 0.03 ms
+08:01:37 AM.990:      ┣OBSBasic::InitService: 1.412 ms
+08:01:37 AM.990:      ┣OBSBasic::InitPrimitives: 0.149 ms
+08:01:37 AM.990:      ┗OBSBasic::Load: 84.346 ms
+08:01:37 AM.990: obs_hotkey_thread(25 ms): min=0.093 ms, median=2.439 ms, max=142.088 ms, 99th percentile=21.157 ms, 99.4621% below 25 ms
+08:01:37 AM.990: audio_thread(Audio): min=0 ms, median=0.451 ms, max=190.344 ms, 99th percentile=8.293 ms
+08:01:37 AM.990: obs_graphics_thread(33.3333 ms): min=0.106 ms, median=32.442 ms, max=220.561 ms, 99th percentile=95.738 ms, 52.28% below 33.333 ms
+08:01:37 AM.990:  ┣tick_sources: min=0 ms, median=4.026 ms, max=121.892 ms, 99th percentile=36.343 ms
+08:01:37 AM.991:  ┣output_frame: min=0.082 ms, median=2.369 ms, max=99.776 ms, 99th percentile=22.094 ms
+08:01:37 AM.991:  ┃ ┗gs_context(video->graphics): min=0.082 ms, median=2.367 ms, max=99.773 ms, 99th percentile=22.09 ms
+08:01:37 AM.991:  ┃   ┣render_video: min=0.022 ms, median=1.979 ms, max=99.333 ms, 99th percentile=19.842 ms
+08:01:37 AM.991:  ┃   ┃ ┗render_main_texture: min=0.02 ms, median=1.961 ms, max=99.318 ms, 99th percentile=19.712 ms
+08:01:37 AM.991:  ┃   ┗gs_flush: min=0.043 ms, median=0.228 ms, max=55.163 ms, 99th percentile=3.103 ms
+08:01:37 AM.991:  ┗render_displays: min=0.003 ms, median=22.078 ms, max=171.946 ms, 99th percentile=71.37 ms
+08:01:37 AM.991: =================================================
+08:01:37 AM.991: == Profiler Time Between Calls ==================
+08:01:37 AM.991: obs_hotkey_thread(25 ms): min=25.175 ms, median=27.755 ms, max=167.183 ms, 8.17262% within ±2% of 25 ms (0% lower, 91.8274% higher)
+08:01:37 AM.991: obs_graphics_thread(33.3333 ms): min=12.895 ms, median=33.454 ms, max=221.223 ms, 38.3231% within ±2% of 33.333 ms (14.4746% lower, 47.2024% higher)
+08:01:37 AM.991: =================================================
+08:01:38 AM.364: Number of memory leaks: 13

@@ -1,5 +1,5 @@
-favorites=
-recent=nemo.desktop,mate-terminal.desktop,synaptic.desktop,ca.desrt.dconf-editor.desktop,org.gnome.DiskUtility.desktop,eom.desktop,mintupdate.desktop,mintinstall.desktop,update-manager.desktop,vlc.desktop
+favorites=com.obsproject.Studio.desktop,discord.desktop,superproductivity.desktop,mongodb-compass.desktop,syntevo-smartgit.desktop
+recent=wps-office-pdf.desktop,mongodb-compass.desktop,chromium-browser.desktop,synaptic.desktop,org.qutebrowser.qutebrowser.desktop,webapp-manager.desktop,discord.desktop,superproductivity.desktop,syntevo-smartgit.desktop,dillo.desktop
 button-icon=mintwelcome
 button-single-row=false
 show-button-title=false

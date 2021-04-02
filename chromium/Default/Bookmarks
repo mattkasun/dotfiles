@@ -1,0 +1,40 @@
+{
+   "checksum": "55d3cded4916b6f4c3a5918812a39889",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "guid": "dad68e17-28c8-40b0-9482-0c73f732ddf0",
+            "id": "5",
+            "name": "Community",
+            "type": "url",
+            "url": "https://community.linuxmint.com/"
+         } ],
+         "date_added": "13261788871783827",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13261788871783842",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13261788871783845",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

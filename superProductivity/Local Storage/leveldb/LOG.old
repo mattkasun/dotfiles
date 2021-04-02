@@ -1,0 +1,27 @@
+2021/04/01-07:58:46.491 1c4599 Reusing MANIFEST /home/mkasun/.config/superProductivity/Local Storage/leveldb/MANIFEST-000001
+2021/04/01-07:58:46.492 1c4599 Recovering log #10
+2021/04/01-07:58:46.492 1c4599 Reusing old log /home/mkasun/.config/superProductivity/Local Storage/leveldb/000010.log 
+2021/04/01-08:22:47.350 1c5037 Level-0 table #14: started
+2021/04/01-08:22:47.355 1c5037 Level-0 table #14: 11290 bytes OK
+2021/04/01-08:22:47.358 1c5037 Delete type=0 #10
+2021/04/01-09:03:47.349 1c5037 Level-0 table #16: started
+2021/04/01-09:03:47.358 1c5037 Level-0 table #16: 10344 bytes OK
+2021/04/01-09:03:47.366 1c5037 Delete type=0 #13
+2021/04/01-09:03:47.366 1c5037 Compacting 4@0 + 1@1 files
+2021/04/01-09:03:47.373 1c5037 Generated table #17@0: 3 keys, 533 bytes
+2021/04/01-09:03:47.373 1c5037 Compacted 4@0 + 1@1 files => 533 bytes
+2021/04/01-09:03:47.379 1c5037 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/01-09:03:47.379 1c5037 Delete type=2 #9
+2021/04/01-09:03:47.379 1c5037 Delete type=2 #7
+2021/04/01-09:03:47.379 1c5037 Delete type=2 #16
+2021/04/01-09:03:47.379 1c5037 Delete type=2 #14
+2021/04/01-09:03:47.379 1c5037 Delete type=2 #11
+2021/04/01-09:44:47.349 1c5037 Level-0 table #19: started
+2021/04/01-09:44:47.355 1c5037 Level-0 table #19: 10811 bytes OK
+2021/04/01-09:44:47.358 1c5037 Delete type=0 #15
+2021/04/01-10:24:47.349 1c5037 Level-0 table #21: started
+2021/04/01-10:24:47.357 1c5037 Level-0 table #21: 9808 bytes OK
+2021/04/01-10:24:47.365 1c5037 Delete type=0 #18
+2021/04/01-11:05:47.349 1c5037 Level-0 table #23: started
+2021/04/01-11:05:47.355 1c5037 Level-0 table #23: 9952 bytes OK
+2021/04/01-11:05:47.358 1c5037 Delete type=0 #20

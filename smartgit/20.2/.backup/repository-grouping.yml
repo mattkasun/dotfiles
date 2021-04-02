@@ -1,0 +1,62 @@
+structure:
+- name: ~
+  children:
+  - {name: nusak, git: true, path: ~/nusak, path.absolute: /home/mkasun/nusak}
+  - name: sandbox
+    children:
+    - {name: rofi-themes, git: true, path: ~/sandbox/rofi-themes, path.absolute: /home/mkasun/sandbox/rofi-themes}
+    - {name: st, git: true, path: ~/sandbox/st, path.absolute: /home/mkasun/sandbox/st}
+    - {name: scroll, git: true, path: ~/sandbox/scroll, path.absolute: /home/mkasun/sandbox/scroll}
+    - {name: wg-access-server, git: true, path: ~/sandbox/wg-access-server, path.absolute: /home/mkasun/sandbox/wg-access-server}
+    - {name: LXC-Web-Panel, git: true, path: ~/sandbox/LXC-Web-Panel, path.absolute: /home/mkasun/sandbox/LXC-Web-Panel}
+    - {name: virt-bootstrap, git: true, path: ~/sandbox/virt-bootstrap, path.absolute: /home/mkasun/sandbox/virt-bootstrap}
+    - {name: wireguard-indicator-xfce, git: true, path: ~/sandbox/wireguard-indicator-xfce,
+      path.absolute: /home/mkasun/sandbox/wireguard-indicator-xfce}
+    - {name: bluecherry-docker, git: true, path: ~/sandbox/bluecherry-docker, path.absolute: /home/mkasun/sandbox/bluecherry-docker}
+    - {name: curl-google, git: true, path: ~/sandbox/curl-google, path.absolute: /home/mkasun/sandbox/curl-google}
+    - {name: snapdrop, git: true, path: ~/sandbox/snapdrop, path.absolute: /home/mkasun/sandbox/snapdrop}
+    - {name: polybar-themes, git: true, path: ~/sandbox/polybar-themes, path.absolute: /home/mkasun/sandbox/polybar-themes}
+    - {name: OnHubDesktop, git: true, path: ~/sandbox/OnHubDesktop, path.absolute: /home/mkasun/sandbox/OnHubDesktop}
+    - {name: tracks, git: true, path: ~/sandbox/tracks, path.absolute: /home/mkasun/sandbox/tracks}
+    - {name: whatip, git: true, path: ~/sandbox/whatip, path.absolute: /home/mkasun/sandbox/whatip}
+    - {name: dnsperftest, git: true, path: ~/sandbox/dnsperftest, path.absolute: /home/mkasun/sandbox/dnsperftest}
+    - {name: tuya-convert, git: true, path: ~/sandbox/tuya-convert, path.absolute: /home/mkasun/sandbox/tuya-convert}
+    - {name: weather-cli, git: true, path: ~/sandbox/weather-cli, path.absolute: /home/mkasun/sandbox/weather-cli}
+    - {name: wttr.in, git: true, path: ~/sandbox/wttr.in, path.absolute: /home/mkasun/sandbox/wttr.in}
+    - {name: wgconf, git: true, path: ~/sandbox/wgconf, path.absolute: /home/mkasun/sandbox/wgconf}
+    - {name: tickrs, git: true, path: ~/sandbox/tickrs, path.absolute: /home/mkasun/sandbox/tickrs}
+    - {name: ticker, git: true, path: ~/sandbox/ticker, path.absolute: /home/mkasun/sandbox/ticker}
+    - {name: todo, git: true, path: ~/sandbox/todo, path.absolute: /home/mkasun/sandbox/todo}
+    - {name: go-gin-app, git: true, path: ~/sandbox/go-gin-app, path.absolute: /home/mkasun/sandbox/go-gin-app}
+    - {name: playground, git: true, path: ~/sandbox/playground, path.absolute: /home/mkasun/sandbox/playground}
+    - {name: storage, git: true, path: ~/sandbox/storage, path.absolute: /home/mkasun/sandbox/storage}
+    - {name: dragon, git: true, path: ~/sandbox/dragon, path.absolute: /home/mkasun/sandbox/dragon}
+    - {name: learngo, git: true, path: ~/sandbox/learngo, path.absolute: /home/mkasun/sandbox/learngo}
+    - {name: nusak, git: true, path: ~/sandbox/nusak, path.absolute: /home/mkasun/sandbox/nusak}
+    - {name: todo-nusak, git: true, path: ~/sandbox/todo-nusak, path.absolute: /home/mkasun/sandbox/todo-nusak}
+    - {name: discord-bot, git: true, path: ~/sandbox/discord-bot, path.absolute: /home/mkasun/sandbox/discord-bot}
+    - {name: tasktimer, git: true, path: ~/sandbox/tasktimer, path.absolute: /home/mkasun/sandbox/tasktimer}
+    - {name: redis, git: true, path: ~/sandbox/redis, path.absolute: /home/mkasun/sandbox/redis}
+    - {name: go-fast, git: true, path: ~/sandbox/go-fast, path.absolute: /home/mkasun/sandbox/go-fast}
+    - {name: speedfast, git: true, path: ~/sandbox/speedfast, path.absolute: /home/mkasun/sandbox/speedfast}
+    - {name: speedtest-cli, git: true, path: ~/sandbox/speedtest-cli, path.absolute: /home/mkasun/sandbox/speedtest-cli}
+    - {name: wgctrl-go, git: true, path: ~/sandbox/wgctrl-go, path.absolute: /home/mkasun/sandbox/wgctrl-go}
+    - {name: WireCat, git: true, path: ~/sandbox/WireCat, path.absolute: /home/mkasun/sandbox/WireCat}
+    - {name: netmaker-ui, git: true, path: ~/sandbox/netmaker-ui, path.absolute: /home/mkasun/sandbox/netmaker-ui}
+    - {name: netmaker, git: true, path: ~/sandbox/netmaker, path.absolute: /home/mkasun/sandbox/netmaker}
+    - name: kanboard
+      children:
+      - {name: kanboard, git: true, path: ~/sandbox/kanboard/kanboard, path.absolute: /home/mkasun/sandbox/kanboard/kanboard}
+    - name: fyne
+      children:
+      - {name: fyne, git: true, path: ~/sandbox/fyne/fyne, path.absolute: /home/mkasun/sandbox/fyne/fyne}
+recentlyUsed: [~/sandbox/netmaker, ~/sandbox/netmaker-ui, ~/sandbox/WireCat, ~/sandbox/wgctrl-go,
+  ~/sandbox/speedtest-cli, ~/sandbox/speedfast, ~/sandbox/go-fast, ~/sandbox/redis,
+  ~/sandbox/tasktimer, ~/sandbox/discord-bot, ~/sandbox/todo-nusak, ~/sandbox/nusak,
+  ~/sandbox/learngo, ~/sandbox/dragon, ~/sandbox/storage, ~/sandbox/playground, ~/sandbox/go-gin-app,
+  ~/sandbox/todo, ~/nusak, ~/sandbox/ticker, ~/sandbox/tickrs, ~/sandbox/wgconf, ~/sandbox/wttr.in,
+  ~/sandbox/weather-cli, ~/sandbox/tuya-convert, ~/sandbox/dnsperftest, ~/sandbox/whatip,
+  ~/sandbox/fyne/fyne, ~/sandbox/tracks, ~/sandbox/OnHubDesktop, ~/sandbox/polybar-themes,
+  ~/sandbox/snapdrop, ~/sandbox/kanboard/kanboard, ~/sandbox/curl-google, ~/sandbox/bluecherry-docker,
+  ~/sandbox/wireguard-indicator-xfce, ~/sandbox/virt-bootstrap, ~/sandbox/LXC-Web-Panel,
+  ~/sandbox/wg-access-server, ~/sandbox/scroll, ~/sandbox/st, ~/sandbox/rofi-themes]

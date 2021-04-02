@@ -63,11 +63,11 @@ gui.bytes_encoding: FROM_PACKET
 
 # Main window upper (or leftmost) pane size.
 # Decimal number.
-gui.geometry_main_upper_pane: 305
+gui.geometry_main_upper_pane: 467
 
 # Main window middle pane size.
 # Decimal number.
-gui.geometry_main_lower_pane: 305
+gui.geometry_main_lower_pane: 469
 
 # Packet list column pixel widths.
 # Each pair of strings consists of a column format and its pixel width.

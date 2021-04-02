@@ -17,10 +17,10 @@ recent.capture_filter.ciscodump: port=9000
 
 # Main window geometry.
 # Decimal numbers.
-gui.geometry_main_x: 2760
-gui.geometry_main_y: 35
-gui.geometry_main_width: 836
-gui.geometry_main_height: 1013
+gui.geometry_main_x: 0
+gui.geometry_main_y: 0
+gui.geometry_main_width: 1920
+gui.geometry_main_height: 1080
 
 # Main window maximized.
 # TRUE or FALSE (case-insensitive).

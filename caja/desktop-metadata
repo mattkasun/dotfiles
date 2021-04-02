@@ -1,13 +1,18 @@
 [directory]
 caja-icon-view-keep-aligned=true
-caja-icon-view-layout-timestamp=1598016673
+caja-icon-view-layout-timestamp=1610382124
 
 [home]
 caja-icon-position=64,102
 icon-scale=1
-caja-icon-position-timestamp=1598016673
+caja-icon-position-timestamp=1610382124
 
 [computer]
 caja-icon-position=64,22
 icon-scale=1
-caja-icon-position-timestamp=1598016673
+caja-icon-position-timestamp=1610382124
+
+[WD.volume]
+caja-icon-position=64,202
+icon-scale=1
+caja-icon-position-timestamp=1610382124

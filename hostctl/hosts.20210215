@@ -1,0 +1,23 @@
+127.0.0.1	localhost
+127.0.1.1	winterfell
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+
+#tailscale hosts
+100.105.213.24	winterfell
+100.98.77.27	a71
+100.85.248.87	aws
+100.127.207.96	kelly
+100.85.146.15	tablet
+100.107.208.13	tommy
+
+192.168.86.40   pi4
+192.168.86.50   pimotion
+192.168.86.106  pinode
+

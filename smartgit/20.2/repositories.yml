@@ -1,0 +1,28 @@
+gitRootSettingsSet:
+  root/home/mkasun/sandbox/netmaker:
+    databaseCleanup: {}
+    log:
+      rootSettings: {baseRoots: "!local-tags://\t!remote://origin\t!others://\tref://refs/heads/add-tests\t\
+          ref://HEAD", extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotes: |
+        adding ampersands
+    journal: {}
+  roots: [~/.config]
+  root/home/mkasun/.config:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+hgRootSettingsSet:
+  roots: []
+pushMultiRoot: {}

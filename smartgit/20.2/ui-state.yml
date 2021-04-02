@@ -1,0 +1,80 @@
+bounds:
+- {key: log, x: 0, y: 8, width: 1922, height: 1072}
+- {key: welcome}
+- {key: preferences, x: -191, y: -47, width: 918, height: 563}
+- {key: output}
+- {key: git.commit, width: 630, height: 550}
+- {key: git.flow.configure, width: 400, height: 247}
+- {key: git.stage, width: 500, height: 309}
+conflictSolverFrame: {}
+indexEditorFrame: {}
+columns:
+  log.comments:
+    columnNames: "Author\tText\tPath\tDate\tAssignee\tCommit"
+    visibleColumnNames: "Assignee\tAuthor\tDate\tPath\tText"
+    columnWidths:
+    - {id: Author, width: 66, width2x: 0}
+    - {id: Text, width: 47, width2x: 0}
+    - {id: Path, width: 49, width2x: 0}
+    - {id: Date, width: 51, width2x: 0}
+    - {id: Assignee, width: 102, width2x: 0}
+    sortOrders:
+    - {id: Assignee, reverse: false}
+    - {id: Date, reverse: false}
+  git.log.files.mixed:
+    columnNames: "Name\tModification\tRelative Directory\tRenamed Path\tExt.\tRelative\
+      \ Path"
+    visibleColumnNames: "Modification\tName\tRelative Directory\tRenamed Path"
+    columnWidths:
+    - {id: Name, width: 200, width2x: 0}
+    - {id: Modification, width: 60, width2x: 0}
+    - {id: Relative Directory, width: 200, width2x: 0}
+    - {id: Renamed Path, width: 150, width2x: 0}
+    - {id: Relative Path, width: 500, width2x: 0}
+    sortOrders:
+    - {id: Name, reverse: false}
+    - {id: Relative Directory, reverse: false}
+  git.log.files.wt:
+    columnNames: "Name\tState\tRelative Directory\tRenamed Path\tExt.\tLast Changed\
+      \ On\tRelative Path\tSize"
+    visibleColumnNames: "Name\tRelative Directory\tRenamed Path\tState"
+    columnWidths:
+    - {id: Name, width: 200, width2x: 0}
+    - {id: State, width: 60, width2x: 0}
+    - {id: Relative Directory, width: 200, width2x: 0}
+    - {id: Renamed Path, width: 150, width2x: 0}
+    - {id: Relative Path, width: 500, width2x: 0}
+    sortOrders:
+    - {id: Name, reverse: false}
+    - {id: Relative Directory, reverse: false}
+  git.log.files.index:
+    columnNames: "Name\tState\tRelative Directory\tRenamed Path\tExt.\tLast Changed\
+      \ On\tRelative Path\tSize"
+    visibleColumnNames: "Name\tRelative Directory\tRenamed Path\tState"
+    columnWidths:
+    - {id: Name, width: 200, width2x: 0}
+    - {id: State, width: 60, width2x: 0}
+    - {id: Relative Directory, width: 200, width2x: 0}
+    - {id: Renamed Path, width: 150, width2x: 0}
+    - {id: Relative Path, width: 500, width2x: 0}
+    sortOrders:
+    - {id: Name, reverse: false}
+    - {id: Relative Directory, reverse: false}
+gitViewFileFilter: {}
+hgViewFileFilter: {}
+deepGitUiConfiguration: {}
+confirmations: {exit.showConfirmation: true, commit.amend.replaceWarning: true}
+project.files.git.separateWtIndex: true
+gitProjectLayout.main: (([+2x3:directories ][+1x2:branches ])(([+7x2:files ][+3x1:message
+  ])[+10x2:changes ]([+3x1:outgoing ][-3x1:output ])))
+log.files.git.separateWtIndex: true
+gitLogRootLayout.main: (([+159x451:repositories ][+159x451:branches ])(([+1198x468:graph
+  ]([+313x223:details -1x1:output -1x1:debug-log details ][+313x242:files +313x242:comments
+  files ]))[+1514x434:changes ]))
+gitLogRootLayout.mainIsdefault: true
+gitLogRootLayout.review: (([+1x1:repositories ][+1x1:branches ])(([+4x1:graph ]([+2x1:details
+  -1x1:output -1x1:debug-log details ][+2x2:files +2x1:comments files ]))[+4x4:changes
+  ]))
+bundledGitIsNewerPeriod: 14
+commit.expandOptions: false
+lastRepositoryPath: /home/mkasun/.config

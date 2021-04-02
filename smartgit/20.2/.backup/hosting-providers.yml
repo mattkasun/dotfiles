@@ -1,0 +1,4 @@
+providers:
+- {name: github.com, createUpstreamRemote: false, useSshUrl: true, account: mattkasun,
+  password: 3, useOAuthRepositoryAuthentication: true, providerId: github, sslClientCertificatePassword: 12}
+fingerprint: []

@@ -1,0 +1,7 @@
+readNotifications: []
+dontPublishNotifications: [linux.theme-null, bundledGitDetected-null, repositories-no-favorites-null,
+  fileMonitor.directoriesExcluded-null]
+dontPublishUntil-linux.theme-null: 0
+dontPublishUntil-bundledGitDetected-null: 1617556788233
+dontPublishUntil-repositories-no-favorites-null: 1617460529660
+dontPublishUntil-fileMonitor.directoriesExcluded-null: 1617460539403

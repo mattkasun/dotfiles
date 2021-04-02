@@ -1,0 +1,31 @@
+2021/04/01-18:14:31.852 3 Reusing MANIFEST /home/mkasun/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/04/01-18:25:40.868 c Level-0 table #5: started
+2021/04/01-18:25:40.885 c Level-0 table #5: 43951 bytes OK
+2021/04/01-18:25:40.893 c Delete type=0 #3
+2021/04/01-22:20:09.619 1b Level-0 table #7: started
+2021/04/01-22:20:09.624 1b Level-0 table #7: 15940 bytes OK
+2021/04/01-22:20:09.628 1b Delete type=0 #4
+2021/04/02-04:47:10.747 29 Level-0 table #9: started
+2021/04/02-04:47:10.758 29 Level-0 table #9: 12458 bytes OK
+2021/04/02-04:47:10.761 29 Delete type=0 #6
+2021/04/02-07:50:32.509 33 Level-0 table #11: started
+2021/04/02-07:50:32.515 33 Level-0 table #11: 12877 bytes OK
+2021/04/02-07:50:32.524 33 Delete type=0 #8
+2021/04/02-08:37:18.634 33 Level-0 table #13: started
+2021/04/02-08:37:18.640 33 Level-0 table #13: 14711 bytes OK
+2021/04/02-08:37:18.649 33 Delete type=0 #10
+2021/04/02-09:20:35.911 3c Level-0 table #15: started
+2021/04/02-09:20:35.927 3c Level-0 table #15: 13927 bytes OK
+2021/04/02-09:20:35.935 3c Delete type=0 #12
+2021/04/02-09:20:35.936 3c Compacting 4@0 + 1@1 files
+2021/04/02-09:20:35.944 3c Generated table #16@0: 15 keys, 6794 bytes
+2021/04/02-09:20:35.944 3c Compacted 4@0 + 1@1 files => 6794 bytes
+2021/04/02-09:20:35.952 3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/02-09:20:35.953 3c Delete type=2 #9
+2021/04/02-09:20:35.953 3c Delete type=2 #7
+2021/04/02-09:20:35.953 3c Delete type=2 #13
+2021/04/02-09:20:35.953 3c Delete type=2 #11
+2021/04/02-09:20:35.953 3c Delete type=2 #15
+2021/04/02-10:25:54.791 40 Level-0 table #18: started
+2021/04/02-10:25:54.800 40 Level-0 table #18: 9980 bytes OK
+2021/04/02-10:25:54.815 40 Delete type=0 #14

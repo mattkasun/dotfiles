@@ -8,7 +8,7 @@ remotes:
     addr: unix://
     public: false
   nusak:
-    addr: https://138.197.148.125:8443
+    addr: https://nusak.ca:8443
     auth_type: tls
     project: default
     protocol: lxd

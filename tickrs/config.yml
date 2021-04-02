@@ -1,0 +1,61 @@
+---
+# List of ticker symbols to start app with
+symbols:
+  - AAPL
+  - ABB
+  - ACN
+  - AMZN
+  - CCI
+  - COST
+  - CVS
+  - DEO
+  - GME
+  - GOOG
+  - HD
+  - JNJ
+  - JPM
+  - MA
+  - MCD
+  - MDT
+  - MRK
+  - MSFT
+  - PANW
+  - PLD
+  - SHOP
+  - SNY
+  - UL
+  - UNH
+  - UNP
+
+# Use specified time frame when starting program and when new stocks are added
+# Default is 1D
+# Possible values: 1D, 1W, 1M, 3M, 6M, 1Y, 5Y
+time_frame: 1W
+
+# Interval to update data from API (seconds)
+# Default is 1
+update_interval: 5
+
+# Enable pre / post market hours for graphs
+#enable_pre_post: true
+
+# Hide help icon in top right
+#hide_help: true
+
+# Hide previous close line on 1D chart
+#hide_prev_close: true
+
+# Hide toggle block
+#hide_toggle: true
+
+# Show volumes graph
+show_volumes: true
+
+# Show x-axis labels
+show_x_labels: true
+
+# Start in summary mode
+#summary: true
+
+# Truncate pre market graphing to only 30 minutes prior to markets opening
+#trunc_pre: true

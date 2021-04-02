@@ -5,7 +5,7 @@
     <property name="mode" type="int" value="2"/>
     <property name="themes" type="empty">
       <property name="list" type="array">
-        <value type="string" value="screensavers-xfce-floaters"/>
+        <value type="string" value="screensavers-glmatrix"/>
       </property>
     </property>
   </property>
@@ -15,6 +15,19 @@
       <property name="arguments" type="string" value="-n 5"/>
       <property name="do-rotations" type="bool" value="false"/>
       <property name="print-stats" type="bool" value="false"/>
+    </property>
+    <property name="glmatrix" type="empty">
+      <property name="speed" type="double" value="3.000000"/>
+      <property name="arguments" type="string" value="-density 20 -speed 3 -mode dna"/>
+      <property name="mode" type="string" value="dna"/>
+      <property name="fog" type="bool" value="false"/>
+      <property name="waves" type="bool" value="false"/>
+      <property name="rotate" type="bool" value="false"/>
+      <property name="tex" type="bool" value="false"/>
+      <property name="wire" type="bool" value="false"/>
+      <property name="showfps" type="bool" value="false"/>
+      <property name="delay" type="double" value="0.000000"/>
+      <property name="density" type="double" value="20.000000"/>
     </property>
   </property>
   <property name="lock" type="empty">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-panel" version="1.0">
-  <property name="configver" type="empty"/>
+  <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
     <value type="int" value="2"/>
@@ -78,22 +78,17 @@
     </property>
     <property name="plugin-5" type="string" value="actions">
       <property name="items" type="array">
-        <value type="string" value="-separator"/>
         <value type="string" value="+logout-dialog"/>
-        <value type="string" value="-logout"/>
         <value type="string" value="-switch-user"/>
-        <value type="string" value="+lock-screen"/>
-        <value type="string" value="-hibernate"/>
-        <value type="string" value="-hybrid-sleep"/>
-        <value type="string" value="-suspend"/>
-        <value type="string" value="+restart"/>
-        <value type="string" value="+shutdown"/>
       </property>
+      <property name="appearance" type="uint" value="0"/>
+      <property name="invert-orientation" type="bool" value="false"/>
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="show-handle" type="empty"/>
       <property name="middle-click" type="empty"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="caja"/>
         <value type="string" value="nm-tray"/>
         <value type="string" value="bluetooth enabled"/>
         <value type="string" value="tray.py"/>
@@ -130,6 +125,31 @@
     <property name="plugin-15" type="string" value="screenshooter"/>
     <property name="plugin-16" type="string" value="statusnotifier">
       <property name="known-items" type="array">
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="dropbox-client-5209"/>
+        <value type="string" value="dropbox-client-4813"/>
+        <value type="string" value="dropbox-client-5258"/>
+        <value type="string" value="dropbox-client-4889"/>
+        <value type="string" value="dropbox-client-4960"/>
+        <value type="string" value="superProductivity1"/>
+        <value type="string" value="dropbox-client-1520308"/>
+        <value type="string" value="dropbox-client-5373"/>
+        <value type="string" value="dropbox-client-572140"/>
+        <value type="string" value="dropbox-client-125887"/>
+        <value type="string" value="dropbox-client-49034"/>
+        <value type="string" value="dropbox-client-6064"/>
+        <value type="string" value="dropbox-client-2222545"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="discord1"/>
+        <value type="string" value="dropbox-client-660011"/>
+        <value type="string" value="dropbox-client-659133"/>
+        <value type="string" value="dropbox-client-316643"/>
+        <value type="string" value="dropbox-client-307531"/>
+        <value type="string" value="dropbox-client-281104"/>
+        <value type="string" value="dropbox-client-280302"/>
+        <value type="string" value="Mailspring1"/>
+        <value type="string" value="dropbox-client-128154"/>
         <value type="string" value="dropbox-client-30921"/>
         <value type="string" value="dropbox-client-26916"/>
         <value type="string" value="dropbox-client-22806"/>

@@ -1,5 +1,5 @@
 [Default Applications]
-text/csv=wps-office-prometheus.desktop
+text/csv=libreoffice-calc.desktop
 application/xls=wps-office-prometheus.desktop
 application/csv=wps-office-prometheus.desktop
 text/spreadsheet=wps-office-prometheus.desktop
@@ -92,6 +92,10 @@ application/wps-office.uot=wps-office-prometheus.desktop
 x-scheme-handler/mailto=org.gnome.Geary.desktop
 application/x-gzip=gnucash.desktop
 x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/mailspring=mailspring.desktop
+video/x-matroska=vlc.desktop
+video/mp4=vlc.desktop
+video/mpeg=vlc.desktop
 
 [Added Associations]
 x-scheme-handler/mailto=exo-mail-reader.desktop;
@@ -105,4 +109,6 @@ inode/directory=exo-file-manager.desktop;
 x-scheme-handler/trash=exo-file-manager.desktop;
 x-scheme-handler/http=exo-web-browser.desktop;
 x-scheme-handler/https=exo-web-browser.desktop;
-
+video/x-matroska=vlc.desktop;
+video/mp4=vlc.desktop;
+video/mpeg=vlc.desktop;

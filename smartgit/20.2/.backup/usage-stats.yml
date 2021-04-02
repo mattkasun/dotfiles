@@ -1,0 +1,29 @@
+header: {started: 1616924236294, uid: e4tud9a4kh, licenseType: foundation, build: 16157,
+  os: linux, osv: 5.4.0-67-generic}
+stats:
+  started: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  bundledGit.check: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  bundledGit.check.shouldBeUsed: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  window.log: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  repo.opens.wt: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  repo.opens.wt.files.0-1000: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  repo.opens.wt.submodules.0: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  repo.opens.commits: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  repo.opens.commits.0-1000: {invocations: 5, invocationLast: 20210401, invocationDays: 3}
+  changesview.syntax.yaml: {invocations: 10, invocationLast: 20210401, invocationDays: 3}
+  changesview.syntax.go: {invocations: 23, invocationLast: 20210401, invocationDays: 3}
+  changesview.syntax.<unknown>: {invocations: 12, invocationLast: 20210401, invocationDays: 3}
+  action.repositorySettings: {invocations: 1, invocationLast: 20210328, invocationDays: 1}
+  action.delete: {invocations: 1, invocationLast: 20210328, invocationDays: 1}
+  action.commit: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.checkout: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.branchSetTracking: {invocations: 2, invocationLast: 20210330, invocationDays: 1}
+  action.clean: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.branchResetTracking: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.sync: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.flowConfigure: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.merge: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.rebaseHeadTo: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.revealCommitWithHead: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.revealCommit: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
+  action.remoteFetch: {invocations: 1, invocationLast: 20210330, invocationDays: 1}
