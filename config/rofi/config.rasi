@@ -1,0 +1,4 @@
+configuration {
+ modi: "run,ssh,window";
+ }
+@theme "fancy"

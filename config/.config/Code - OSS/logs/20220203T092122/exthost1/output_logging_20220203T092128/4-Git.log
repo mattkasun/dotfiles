@@ -1,0 +1,151 @@
+Validating found git in: git
+Using git 2.35.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mkasun/netmaker
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_delete_node refs/remotes/bugfix_v0.10.0_delete_node
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :logic/dns.go
+> git ls-files --stage -- /home/mkasun/netmaker/logic/dns.go
+> git cat-file -s ac58f20599dcd56e5f50bf514fbe0f57608fcf8f
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git show --textconv :netclient/functions/join.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/join.go
+> git cat-file -s 55c12ad784f16eb1dfa5423ff3fdc58fc2359eea
+> git show --textconv :kube/components/netclient-template.yaml.backup
+> git ls-files --stage -- /home/mkasun/netmaker/kube/components/netclient-template.yaml.backup
+> git cat-file -s f0d37c913e5f724239d6f5c78edd0f27527d5d53
+> git check-ignore -v -z --stdin
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git show --textconv :netclient/local/dns.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/local/dns.go
+> git cat-file -s fe9cf1c75b005da61a87087ff792844da8aa156f
+> git check-ignore -v -z --stdin
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s a6ed9769e974f65c74e0d1b8344c283cda3be066
+> git show --textconv :netclient/functions/daemon.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Opening repository for path='/usr/lib/go/src/io/fs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s a6ed9769e974f65c74e0d1b8344c283cda3be066
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git symbolic-ref --short HEAD
+> git cat-file -s 5602d6a14bf2393526ac8a9d276feef29370eaed
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_path_fix refs/remotes/bugfix_v0.10.0_path_fix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :netclient/functions/daemon.go
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_path_fix refs/remotes/bugfix_v0.10.0_path_fix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_path_fix refs/remotes/bugfix_v0.10.0_path_fix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_path_fix refs/remotes/bugfix_v0.10.0_path_fix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 3b536434a01e48f132afa9de3fa9febe3e7aca35
+> git show --textconv :netclient/functions/daemon.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_path_fix refs/remotes/bugfix_v0.10.0_path_fix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 3b536434a01e48f132afa9de3fa9febe3e7aca35
+> git show --textconv :netclient/functions/daemon.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_path_fix refs/remotes/bugfix_v0.10.0_path_fix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

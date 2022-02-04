@@ -1,0 +1,25 @@
+[2022-02-03 07:31:06.129] [exthost] [info] Extension host with pid 186926 started
+[2022-02-03 07:31:06.129] [exthost] [info] Skipping acquiring lock for /home/mkasun/.config/Code - OSS/User/workspaceStorage/b93fbe19c3cfbdb67657f455f104198f.
+[2022-02-03 07:31:06.228] [exthost] [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+[2022-02-03 07:31:06.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-03 07:31:06.319] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-03 07:31:06.322] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-02-03 07:31:06.511] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-03 07:31:06.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-03 07:31:06.852] [exthost] [info] Eager extensions activated
+[2022-02-03 07:31:06.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-03 07:31:06.956] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-03 07:31:07.952] [exthost] [error] [golang.go] provider FAILED
+[2022-02-03 07:31:07.992] [exthost] [error] Canceled: Canceled
+    at LanguageClient2.makeCancelError (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:12133:24)
+    at LanguageClient2.handleFailedRequest (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:12124:24)
+    at /home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:11056:31
+    at V.provideLinks (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:106340)
+[2022-02-03 07:31:07.994] [exthost] [error] [golang.go] provider FAILED
+[2022-02-03 07:31:07.994] [exthost] [error] Error: context canceled
+    at handleResponse (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:4366:40)
+    at processMessageQueue (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:4204:13)
+    at Immediate.<anonymous> (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:4190:11)
+    at processImmediate (internal/timers.js:461:21)
+[2022-02-03 07:31:10.663] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-03 07:31:10.674] [exthost] [info] Extension host with pid 186926 exiting with code 0

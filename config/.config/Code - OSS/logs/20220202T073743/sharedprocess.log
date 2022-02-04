@@ -1,0 +1,19 @@
+[2022-02-02 07:37:51.363] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-02 07:37:58.033] [sharedprocess] [info] Installing extension: golang.go
+[2022-02-02 07:38:15.516] [sharedprocess] [info] Downloaded extension: golang.go /home/mkasun/.config/Code - OSS/CachedExtensionVSIXs/golang.go-0.31.0
+[2022-02-02 07:38:15.614] [sharedprocess] [info] Extracted extension to /home/mkasun/.vscode-oss/extensions/.676dad0a-c953-4e78-9b87-1eff49984cd2: golang.go
+[2022-02-02 07:38:15.623] [sharedprocess] [info] Renamed to /home/mkasun/.vscode-oss/extensions/golang.go-0.31.0
+[2022-02-02 07:38:15.627] [sharedprocess] [info] Extracting completed. golang.go
+[2022-02-02 07:38:15.630] [sharedprocess] [info] Extension installed successfully: golang.go
+[2022-02-02 07:39:18.347] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2022-02-02 07:39:39.673] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/mkasun/.config/Code - OSS/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.83
+[2022-02-02 07:39:39.752] [sharedprocess] [info] Extracted extension to /home/mkasun/.vscode-oss/extensions/.006d699c-5fb7-4bf3-9fd4-cdac9fab4cb7: asvetliakov.vscode-neovim
+[2022-02-02 07:39:39.759] [sharedprocess] [info] Renamed to /home/mkasun/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.83
+[2022-02-02 07:39:39.760] [sharedprocess] [info] Extracting completed. asvetliakov.vscode-neovim
+[2022-02-02 07:39:39.762] [sharedprocess] [info] Extension installed successfully: asvetliakov.vscode-neovim
+[2022-02-02 07:41:37.174] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-02-02 07:42:08.335] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/mkasun/.config/Code - OSS/CachedExtensionVSIXs/vscodevim.vim-1.21.10
+[2022-02-02 07:42:08.446] [sharedprocess] [info] Extracted extension to /home/mkasun/.vscode-oss/extensions/.b700c13b-ebd6-443d-b05d-8cf6bc1c1486: vscodevim.vim
+[2022-02-02 07:42:08.453] [sharedprocess] [info] Renamed to /home/mkasun/.vscode-oss/extensions/vscodevim.vim-1.21.10
+[2022-02-02 07:42:08.454] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-02-02 07:42:08.457] [sharedprocess] [info] Extension installed successfully: vscodevim.vim

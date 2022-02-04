@@ -1,0 +1,395 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mkasun/netmaker
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :controllers/node_grpc.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s ac47e5d63ed7362a51b75e8ae818c708b4f69f25
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/mkasun/netmaker/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s 633cb3695a38ee08c7b1c4015981f91301c103db
+> git show --textconv :controllers/node_grpc.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/mkasun/netmaker/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :controllers/auth_grpc.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/auth_grpc.go
+> git cat-file -s d457a2d1ea15f40e80181d959e960cb9c062237e
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 605ceec3f1df132f161fdc56d5de95285799c28a
+> git show --textconv :docs/examplecode/netclient-join.txt
+> git ls-files --stage -- /home/mkasun/netmaker/docs/examplecode/netclient-join.txt
+> git cat-file -s 2e514eedd4084e3b8b7ded2aa372a8bbca7752e0
+> git check-ignore -v -z --stdin
+> git show --textconv :functions/helpers.go
+> git ls-files --stage -- /home/mkasun/netmaker/functions/helpers.go
+> git cat-file -s f24833e9cc1dcbeb5f1f22f643177e0eea113d00
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/functions/helpers.go
+> git cat-file -s a8dbc61094156f1677929fdf4b256b7561687e01
+> git show --textconv :functions/helpers.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/functions/helpers.go
+> git cat-file -s a8dbc61094156f1677929fdf4b256b7561687e01
+> git show --textconv :functions/helpers.go
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git check-ignore -v -z --stdin
+> git show --textconv :controllers/node_grpc.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s ac47e5d63ed7362a51b75e8ae818c708b4f69f25
+> git show --textconv :functions/helpers.go
+> git ls-files --stage -- /home/mkasun/netmaker/functions/helpers.go
+> git cat-file -s a8dbc61094156f1677929fdf4b256b7561687e01
+> git show --textconv :controllers/node_grpc.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s ac47e5d63ed7362a51b75e8ae818c708b4f69f25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :functions/helpers.go
+> git ls-files --stage -- /home/mkasun/netmaker/functions/helpers.go
+> git cat-file -s a8dbc61094156f1677929fdf4b256b7561687e01
+> git show --textconv :controllers/node_grpc.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s ac47e5d63ed7362a51b75e8ae818c708b4f69f25
+> git show --textconv :functions/helpers.go
+> git ls-files --stage -- /home/mkasun/netmaker/functions/helpers.go
+> git cat-file -s a8dbc61094156f1677929fdf4b256b7561687e01
+> git show --textconv :controllers/node_grpc.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s ac47e5d63ed7362a51b75e8ae818c708b4f69f25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s ac47e5d63ed7362a51b75e8ae818c708b4f69f25
+> git show --textconv :controllers/node_grpc.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s 1969f9c1c1b2cc41b48cdbe096904572d21edc29
+> git show --textconv :controllers/node_grpc.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s 1969f9c1c1b2cc41b48cdbe096904572d21edc29
+> git show --textconv :controllers/node_grpc.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git symbolic-ref --short HEAD
+> git cat-file -s 1969f9c1c1b2cc41b48cdbe096904572d21edc29
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :controllers/node_grpc.go
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git symbolic-ref --short HEAD
+> git cat-file -s 1969f9c1c1b2cc41b48cdbe096904572d21edc29
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_unique_macaddress refs/remotes/bugfix_v0.10.0_unique_macaddress
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :controllers/node_grpc.go
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git cat-file -s 1969f9c1c1b2cc41b48cdbe096904572d21edc29
+> git show --textconv :controllers/node_grpc.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/mkasun/netmaker/controllers/node_grpc.go
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :controllers/node.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :mq/mq.go
+> git ls-files --stage -- /home/mkasun/netmaker/mq/mq.go
+> git cat-file -s 9bddeeb0fea5486ae04b615c184161438616724f
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/mkasun/go/pkg/mod/github.com/eclipse/paho.mqtt.golang@v1.3.5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git show --textconv :mq/mq.go
+> git ls-files --stage -- /home/mkasun/netmaker/mq/mq.go
+> git cat-file -s 9bddeeb0fea5486ae04b615c184161438616724f
+> git check-ignore -v -z --stdin
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git show --textconv :logic/util.go
+> git ls-files --stage -- /home/mkasun/netmaker/logic/util.go
+> git cat-file -s 71d2ce1405e435c823c0105e9129fe9f5769a299
+> git check-ignore -v -z --stdin
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git show --textconv :mq/mq.go
+> git ls-files --stage -- /home/mkasun/netmaker/mq/mq.go
+> git cat-file -s 9bddeeb0fea5486ae04b615c184161438616724f
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git show --textconv :controllers/response.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/response.go
+> git cat-file -s 5783c0024c9289df9637180320f1c2c4e5f52af8
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git show --textconv :logic/util.go
+> git ls-files --stage -- /home/mkasun/netmaker/logic/util.go
+> git cat-file -s 71d2ce1405e435c823c0105e9129fe9f5769a299
+> git show --textconv :logic/wireguard.go
+> git ls-files --stage -- /home/mkasun/netmaker/logic/wireguard.go
+> git cat-file -s aac1a5900cbe9e877a0bfd6b102d6d0d35e837ab
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :models/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/models/node.go
+> git cat-file -s 77a068841367c16f39cc306629799196980e3ab4
+> git check-ignore -v -z --stdin
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :models/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/models/node.go
+> git cat-file -s 77a068841367c16f39cc306629799196980e3ab4
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git show --textconv :models/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/models/node.go
+> git cat-file -s 77a068841367c16f39cc306629799196980e3ab4
+> git show --textconv :controllers/node.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_delete_node refs/remotes/bugfix_v0.10.0_delete_node
+> git cat-file -s 8ffeac41e48348182dcc743b6f5563e7a471ce46
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :controllers/node.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_delete_node refs/remotes/bugfix_v0.10.0_delete_node
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_delete_node refs/remotes/bugfix_v0.10.0_delete_node
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_delete_node refs/remotes/bugfix_v0.10.0_delete_node
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/node.go
+> git cat-file -s 05838def53e06b44bb0be2e7d9a1f28c5b8d81f7
+> git config --get commit.template
+> git show --textconv :controllers/node.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/bugfix_v0.10.0_delete_node refs/remotes/bugfix_v0.10.0_delete_node
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :controllers/dns.go
+> git ls-files --stage -- /home/mkasun/netmaker/controllers/dns.go
+> git cat-file -s b189159963e8252337925f6f8dde30fb587c6865
+> git show --textconv :logic/dns.go
+> git ls-files --stage -- /home/mkasun/netmaker/logic/dns.go
+> git cat-file -s ac58f20599dcd56e5f50bf514fbe0f57608fcf8f

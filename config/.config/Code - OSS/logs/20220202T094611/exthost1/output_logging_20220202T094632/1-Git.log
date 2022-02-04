@@ -1,0 +1,85 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mkasun/netmaker
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :compose/docker-compose.contained.yml
+> git ls-files --stage -- /home/mkasun/netmaker/compose/docker-compose.contained.yml
+> git cat-file -s 3130489fe6a0e9e84028b987f44e430df8954c82
+> git show --textconv :main.go
+> git ls-files --stage -- /home/mkasun/netmaker/main.go
+> git cat-file -s 0e3b9f7128d24ebd324c76cf2382fdc3ba00666c
+> git show --textconv :servercfg/serverconf.go
+> git ls-files --stage -- /home/mkasun/netmaker/servercfg/serverconf.go
+> git cat-file -s 6db95ff9c845e99f3f100409dbf2ab4aa14dabef
+> git check-ignore -v -z --stdin
+> git show --textconv :config/config.go
+> git ls-files --stage -- /home/mkasun/netmaker/config/config.go
+> git cat-file -s 7b99ce64cbdbb68b0d1bb7aeb3e33f174033e7f7
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :netclient/functions/daemon.go
+Opening repository for path='/home/mkasun/go/pkg/mod/github.com/eclipse/paho.mqtt.golang@v1.3.5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+Opening repository for path='/home/mkasun/go/pkg/mod/github.com/eclipse/paho.mqtt.golang@v1.3.5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/mkasun/go/pkg/mod/github.com/eclipse/paho.mqtt.golang@v1.3.5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+> git show --textconv :netclient/functions/daemon.go
+> git ls-files --stage -- /home/mkasun/netmaker/netclient/functions/daemon.go
+> git cat-file -s 0282d8cbc1fcd589a809dfea0e1e766cb09920f1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

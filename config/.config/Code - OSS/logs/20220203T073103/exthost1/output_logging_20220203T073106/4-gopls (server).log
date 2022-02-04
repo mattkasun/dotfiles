@@ -1,0 +1,163 @@
+[Info  - 7:31:06 a.m.] 2022/02/03 07:31:06 go env for /home/mkasun/netmaker
+(root /home/mkasun/netmaker)
+(go version go version go1.17.6 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+GOPATH=/home/mkasun/go
+GOROOT=/usr/lib/go
+GONOSUMDB=
+GO111MODULE=
+GOCACHE=/home/mkasun/.cache/go-build
+GONOPROXY=
+GOPRIVATE=
+GOSUMDB=sum.golang.org
+GOINSECURE=
+GOPROXY=https://proxy.golang.org,direct
+GOFLAGS=
+GOMOD=/home/mkasun/netmaker/go.mod
+GOMODCACHE=/home/mkasun/go/pkg/mod
+
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 go/packages.Load
+	snapshot=0
+	directory=/home/mkasun/netmaker
+	query=[builtin github.com/gravitl/netmaker/...]
+	packages=33
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 falling back to safe trimming due to type errors: [/usr/lib/go/src/runtime/vdso_linux.go:55:38: invalid operation: division by zero /usr/lib/go/src/runtime/vdso_linux.go:56:38: invalid operation: division by zero] or still-missing identifiers: map[memRecordCycle:true pageBits:true]
+	package="runtime"
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 falling back to safe trimming due to type errors: [/usr/lib/go/src/os/user/cgo_lookup_unix.go:200:19: int not declared by package C /usr/lib/go/src/os/user/cgo_lookup_unix.go:203:16: bufferKind(C._SC_GETPW_R_SIZE_MAX) (value of type bufferKind) is not constant /usr/lib/go/src/os/user/cgo_lookup_unix.go:204:16: bufferKind(C._SC_GETGR_R_SIZE_MAX) (value of type bufferKind) is not constant] or still-missing identifiers: map[]
+	package="os/user"
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 discovered missing identifiers: map[options:true]
+	package="golang.org/x/text/unicode/bidi"
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 discovered missing identifiers: map[yaml_style_t:true]
+	package="gopkg.in/yaml.v3"
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 discovered missing identifiers: map[options:true]
+	package="vendor/golang.org/x/text/unicode/bidi"
+
+[Error - 7:31:07 a.m.] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 discovered missing identifiers: map[cardinality:true kind:true syntax:true value:true]
+	package="google.golang.org/protobuf/reflect/protoreflect"
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 falling back to safe trimming due to type errors: [/home/mkasun/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.10/error.go:22:19: int not declared by package C /home/mkasun/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.10/sqlite3_context.go:38:22: sqlite3_context not declared by package C] or still-missing identifiers: map[]
+	package="github.com/mattn/go-sqlite3"
+
+[Info  - 7:31:07 a.m.] 2022/02/03 07:31:07 discovered missing identifiers: map[matcher:true]
+	package="golang.org/x/text/language"
+
+[Info  - 7:31:08 a.m.] 2022/02/03 07:31:07 discovered missing identifiers: map[unknownFieldsA:true]
+	package="google.golang.org/protobuf/internal/impl"
+
+[Info  - 7:31:08 a.m.] 2022/02/03 07:31:08 discovered missing identifiers: map[cpuMask:true]
+	package="golang.org/x/sys/unix"
+
+[Info  - 7:31:08 a.m.] 2022/02/03 07:31:08 discovered missing identifiers: map[cors:true]
+	package="github.com/gorilla/handlers"
+
+[Info  - 7:31:08 a.m.] 2022/02/03 07:31:08 discovered missing identifiers: map[encoder:true]
+	package="image/png"
+
+[Error - 7:31:09 a.m.] 2022/02/03 07:31:09 tidy: diagnosing file:///home/mkasun/netmaker/go.mod: err: exit status 1: stderr: go: downloading github.com/google/go-cmp v0.5.5
+go: downloading gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+go: downloading google.golang.org/appengine v1.4.0
+go: downloading github.com/go-playground/assert/v2 v2.0.1
+go: downloading github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
+go: downloading github.com/jsimonetti/rtnetlink v0.0.0-20210212075122-66c871082f2b
+go: downloading github.com/mdlayher/ethtool v0.0.0-20210210192532-2b88debcdd43
+github.com/gravitl/netmaker/auth imports
+	golang.org/x/oauth2/google imports
+	google.golang.org/appengine: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker imports
+	google.golang.org/grpc tested by
+	google.golang.org/grpc.test imports
+	github.com/google/go-cmp/cmp: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/auth imports
+	golang.org/x/oauth2 imports
+	golang.org/x/oauth2/internal imports
+	google.golang.org/appengine/urlfetch: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/config imports
+	gopkg.in/yaml.v3 tested by
+	gopkg.in/yaml.v3.test imports
+	gopkg.in/check.v1: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	github.com/go-playground/validator/v10 tested by
+	github.com/go-playground/validator/v10.test imports
+	github.com/go-playground/assert/v2: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	golang.zx2c4.com/wireguard/wgctrl tested by
+	golang.zx2c4.com/wireguard/wgctrl.test imports
+	github.com/mikioh/ipaddr: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker imports
+	google.golang.org/grpc imports
+	google.golang.org/grpc/internal/resolver/dns tested by
+	google.golang.org/grpc/internal/resolver/dns.test imports
+	github.com/google/go-cmp/cmp/cmpopts: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	golang.zx2c4.com/wireguard/wgctrl imports
+	golang.zx2c4.com/wireguard/wgctrl/internal/wglinux imports
+	github.com/mdlayher/netlink tested by
+	github.com/mdlayher/netlink.test imports
+	github.com/jsimonetti/rtnetlink: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	golang.zx2c4.com/wireguard/wgctrl imports
+	golang.zx2c4.com/wireguard/wgctrl/internal/wglinux imports
+	github.com/mdlayher/netlink tested by
+	github.com/mdlayher/netlink.test imports
+	github.com/mdlayher/ethtool: module lookup disabled by GOPROXY=off
+
+
+[Error - 7:31:09 a.m.] 2022/02/03 07:31:09 tidy: diagnosing file:///home/mkasun/netmaker/go.mod: err: exit status 1: stderr: go: downloading google.golang.org/appengine v1.4.0
+go: downloading github.com/google/go-cmp v0.5.5
+go: downloading gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+go: downloading github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
+go: downloading github.com/go-playground/assert/v2 v2.0.1
+go: downloading github.com/jsimonetti/rtnetlink v0.0.0-20210212075122-66c871082f2b
+go: downloading github.com/mdlayher/ethtool v0.0.0-20210210192532-2b88debcdd43
+github.com/gravitl/netmaker/auth imports
+	golang.org/x/oauth2/google imports
+	google.golang.org/appengine: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker imports
+	google.golang.org/grpc tested by
+	google.golang.org/grpc.test imports
+	github.com/google/go-cmp/cmp: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/auth imports
+	golang.org/x/oauth2 imports
+	golang.org/x/oauth2/internal imports
+	google.golang.org/appengine/urlfetch: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/config imports
+	gopkg.in/yaml.v3 tested by
+	gopkg.in/yaml.v3.test imports
+	gopkg.in/check.v1: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	github.com/go-playground/validator/v10 tested by
+	github.com/go-playground/validator/v10.test imports
+	github.com/go-playground/assert/v2: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	golang.zx2c4.com/wireguard/wgctrl tested by
+	golang.zx2c4.com/wireguard/wgctrl.test imports
+	github.com/mikioh/ipaddr: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker imports
+	google.golang.org/grpc imports
+	google.golang.org/grpc/internal/resolver/dns tested by
+	google.golang.org/grpc/internal/resolver/dns.test imports
+	github.com/google/go-cmp/cmp/cmpopts: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	golang.zx2c4.com/wireguard/wgctrl imports
+	golang.zx2c4.com/wireguard/wgctrl/internal/wglinux imports
+	github.com/mdlayher/netlink tested by
+	github.com/mdlayher/netlink.test imports
+	github.com/jsimonetti/rtnetlink: module lookup disabled by GOPROXY=off
+github.com/gravitl/netmaker/logic imports
+	golang.zx2c4.com/wireguard/wgctrl imports
+	golang.zx2c4.com/wireguard/wgctrl/internal/wglinux imports
+	github.com/mdlayher/netlink tested by
+	github.com/mdlayher/netlink.test imports
+	github.com/mdlayher/ethtool: module lookup disabled by GOPROXY=off
+
+

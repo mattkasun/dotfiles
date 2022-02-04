@@ -1,0 +1,30 @@
+Tools environment: GOPATH=/home/mkasun/go
+Installing 9 tools at /home/mkasun/go/bin in module mode.
+  gopkgs
+  go-outline
+  gotests
+  gomodifytags
+  impl
+  goplay
+  dlv
+  staticcheck
+  gopls
+
+Installing github.com/uudashr/gopkgs/v2/cmd/gopkgs@latest (/home/mkasun/go/bin/gopkgs) SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline@latest (/home/mkasun/go/bin/go-outline) SUCCEEDED
+Installing github.com/cweill/gotests/gotests@latest (/home/mkasun/go/bin/gotests) SUCCEEDED
+Installing github.com/fatih/gomodifytags@latest (/home/mkasun/go/bin/gomodifytags) SUCCEEDED
+Installing github.com/josharian/impl@latest (/home/mkasun/go/bin/impl) SUCCEEDED
+Installing github.com/haya14busa/goplay/cmd/goplay@latest (/home/mkasun/go/bin/goplay) SUCCEEDED
+Installing github.com/go-delve/delve/cmd/dlv@latest (/home/mkasun/go/bin/dlv) SUCCEEDED
+Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/mkasun/go/bin/staticcheck) SUCCEEDED
+Tools environment: GOPATH=/home/mkasun/go
+Installing 1 tool at /home/mkasun/go/bin in module mode.
+  gopls
+
+Installing golang.org/x/tools/gopls@latest (/home/mkasun/go/bin/gopls) SUCCEEDED
+
+All tools successfully installed. You are ready to Go. :)
+Installing golang.org/x/tools/gopls@latest (/home/mkasun/go/bin/gopls) SUCCEEDED
+
+All tools successfully installed. You are ready to Go. :)
