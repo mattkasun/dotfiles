@@ -1,5 +1,0 @@
-[2022-02-02 09:46:11.924] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-02-02 09:46:12.007] [main] [info] ExtensionHostStarterWorker created
-[2022-02-02 09:46:13.696] [main] [info] Starting extension host with pid 142787 (fork() took 9 ms).
-[2022-02-02 09:46:30.892] [main] [info] Extension host with pid 142787 exited with code: 0, signal: null.
-[2022-02-02 09:46:32.200] [main] [info] Starting extension host with pid 143003 (fork() took 5 ms).

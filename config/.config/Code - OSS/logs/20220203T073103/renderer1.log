@@ -1,7 +1,0 @@
-[2022-02-03 07:31:05.879] [renderer1] [error] [Extension Host] (node:186926) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `electron --trace-deprecation ...` to show where the warning was created)
-[2022-02-03 07:31:08.022] [renderer1] [error] context canceled: Error: context canceled
-    at handleResponse (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:4366:40)
-    at processMessageQueue (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:4204:13)
-    at Immediate.<anonymous> (/home/mkasun/.vscode-oss/extensions/golang.go-0.31.0/dist/goMain.js:4190:11)
-    at processImmediate (internal/timers.js:461:21)
